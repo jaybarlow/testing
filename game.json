@@ -1,0 +1,3568 @@
+[
+  {
+    "ts_creation": 1736713554,
+    "is_active": true,
+    "is_canceled": false,
+    "is_cashoutable": true,
+    "ts_start": 1737329400,
+    "type": "pm",
+    "state": "pm",
+    "event_live_id": 8877834,
+    "nb_bets": 106,
+    "match_id": "11064098",
+    "odds_provider_id": 4,
+    "actors": [
+      {
+        "id": 695101,
+        "type": "home",
+        "label": "Ravens",
+        "abrev": "Ravens"
+      },
+      {
+        "id": 689907,
+        "type": "away",
+        "label": "Bills",
+        "abrev": "Bills"
+      }
+    ],
+    "filters": [
+      {
+        "id": 1000,
+        "label": "All",
+        "order": 0
+      },
+      {
+        "id": 710,
+        "label": "Popular",
+        "order": 1
+      },
+      {
+        "id": 720,
+        "label": "Player Props",
+        "order": 2
+      },
+      {
+        "id": 730,
+        "label": "1st Half",
+        "order": 5
+      },
+      {
+        "id": 740,
+        "label": "Quarter 1",
+        "order": 7
+      },
+      {
+        "id": 3911,
+        "label": "Others",
+        "order": 500
+      }
+    ],
+    "markets": [
+      {
+        "order": 1,
+        "selection_order_type": "moneyline",
+        "is_cashoutable": true,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "710": 10,
+          "1000": 1
+        },
+        "bets": [
+          {
+            "label": "Moneyline",
+            "selections": [
+              {
+                "id": 5235404572,
+                "odds": 1.85,
+                "odds_display": "-118",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5235404573,
+                "odds": 1.95,
+                "odds_display": "-105",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 200,
+        "selection_order_type": "handicap_2ways",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Spread",
+        "see_more": 3,
+        "filters": {
+          "710": 20,
+          "1000": 200
+        },
+        "bets": [
+          {
+            "label": "Spread (-13.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132391,
+                "odds": 1.14,
+                "odds_display": "-714",
+                "label": "Ravens (+13.5)",
+                "abrev": "Ravens (+13.5)"
+              },
+              {
+                "id": 5235132392,
+                "odds": 5.4,
+                "odds_display": "+440",
+                "label": "Bills (-13.5)",
+                "abrev": "Bills (-13.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-12.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132360,
+                "odds": 1.16,
+                "odds_display": "-625",
+                "label": "Ravens (+12.5)",
+                "abrev": "Ravens (+12.5)"
+              },
+              {
+                "id": 5235132361,
+                "odds": 4.9,
+                "odds_display": "+390",
+                "label": "Bills (-12.5)",
+                "abrev": "Bills (-12.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-11.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132341,
+                "odds": 1.16,
+                "odds_display": "-625",
+                "label": "Ravens (+11.5)",
+                "abrev": "Ravens (+11.5)"
+              },
+              {
+                "id": 5235132340,
+                "odds": 4.9,
+                "odds_display": "+390",
+                "label": "Bills (-11.5)",
+                "abrev": "Bills (-11.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-10.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5231616879,
+                "odds": 1.18,
+                "odds_display": "-556",
+                "label": "Ravens (+10.5)",
+                "abrev": "Ravens (+10.5)"
+              },
+              {
+                "id": 5231616880,
+                "odds": 4.7,
+                "odds_display": "+370",
+                "label": "Bills (-10.5)",
+                "abrev": "Bills (-10.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-9.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132393,
+                "odds": 1.22,
+                "odds_display": "-455",
+                "label": "Ravens (+9.5)",
+                "abrev": "Ravens (+9.5)"
+              },
+              {
+                "id": 5235132394,
+                "odds": 4.1,
+                "odds_display": "+310",
+                "label": "Bills (-9.5)",
+                "abrev": "Bills (-9.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-8.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132377,
+                "odds": 1.24,
+                "odds_display": "-417",
+                "label": "Ravens (+8.5)",
+                "abrev": "Ravens (+8.5)"
+              },
+              {
+                "id": 5235132376,
+                "odds": 3.9,
+                "odds_display": "+290",
+                "label": "Bills (-8.5)",
+                "abrev": "Bills (-8.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-7.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132359,
+                "odds": 1.26,
+                "odds_display": "-385",
+                "label": "Ravens (+7.5)",
+                "abrev": "Ravens (+7.5)"
+              },
+              {
+                "id": 5235132358,
+                "odds": 3.65,
+                "odds_display": "+265",
+                "label": "Bills (-7.5)",
+                "abrev": "Bills (-7.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-6.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132350,
+                "odds": 1.34,
+                "odds_display": "-294",
+                "label": "Ravens (+6.5)",
+                "abrev": "Ravens (+6.5)"
+              },
+              {
+                "id": 5235132351,
+                "odds": 3.1,
+                "odds_display": "+210",
+                "label": "Bills (-6.5)",
+                "abrev": "Bills (-6.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-5.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132337,
+                "odds": 1.4,
+                "odds_display": "-250",
+                "label": "Ravens (+5.5)",
+                "abrev": "Ravens (+5.5)"
+              },
+              {
+                "id": 5235132336,
+                "odds": 2.82,
+                "odds_display": "+182",
+                "label": "Bills (-5.5)",
+                "abrev": "Bills (-5.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-4.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132387,
+                "odds": 1.43,
+                "odds_display": "-233",
+                "label": "Ravens (+4.5)",
+                "abrev": "Ravens (+4.5)"
+              },
+              {
+                "id": 5235132388,
+                "odds": 2.7,
+                "odds_display": "+170",
+                "label": "Bills (-4.5)",
+                "abrev": "Bills (-4.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-3.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132370,
+                "odds": 1.48,
+                "odds_display": "-208",
+                "label": "Ravens (+3.5)",
+                "abrev": "Ravens (+3.5)"
+              },
+              {
+                "id": 5235132368,
+                "odds": 2.55,
+                "odds_display": "+155",
+                "label": "Bills (-3.5)",
+                "abrev": "Bills (-3.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-2.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5234504814,
+                "odds": 1.68,
+                "odds_display": "-147",
+                "label": "Ravens (+2.5)",
+                "abrev": "Ravens (+2.5)"
+              },
+              {
+                "id": 5234504813,
+                "odds": 2.1,
+                "odds_display": "+110",
+                "label": "Bills (-2.5)",
+                "abrev": "Bills (-2.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-1.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132342,
+                "odds": 1.75,
+                "odds_display": "-133",
+                "label": "Ravens (+1.5)",
+                "abrev": "Ravens (+1.5)"
+              },
+              {
+                "id": 5235132343,
+                "odds": 2,
+                "odds_display": "+100",
+                "label": "Bills (-1.5)",
+                "abrev": "Bills (-1.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (-0.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5232882214,
+                "odds": 1.83,
+                "odds_display": "-120",
+                "label": "Ravens (+0.5)",
+                "abrev": "Ravens (+0.5)"
+              },
+              {
+                "id": 5232882213,
+                "odds": 1.93,
+                "odds_display": "-108",
+                "label": "Bills (-0.5)",
+                "abrev": "Bills (-0.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (1.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132335,
+                "odds": 1.95,
+                "odds_display": "-105",
+                "label": "Ravens (-1.5)",
+                "abrev": "Ravens (-1.5)"
+              },
+              {
+                "id": 5235132334,
+                "odds": 1.81,
+                "odds_display": "-123",
+                "label": "Bills (+1.5)",
+                "abrev": "Bills (+1.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (2.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132386,
+                "odds": 2.02,
+                "odds_display": "+102",
+                "label": "Ravens (-2.5)",
+                "abrev": "Ravens (-2.5)"
+              },
+              {
+                "id": 5235132385,
+                "odds": 1.75,
+                "odds_display": "-133",
+                "label": "Bills (+2.5)",
+                "abrev": "Bills (+2.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (3.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132355,
+                "odds": 2.42,
+                "odds_display": "+142",
+                "label": "Ravens (-3.5)",
+                "abrev": "Ravens (-3.5)"
+              },
+              {
+                "id": 5235132354,
+                "odds": 1.53,
+                "odds_display": "-189",
+                "label": "Bills (+3.5)",
+                "abrev": "Bills (+3.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (4.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132345,
+                "odds": 2.57,
+                "odds_display": "+157",
+                "label": "Ravens (-4.5)",
+                "abrev": "Ravens (-4.5)"
+              },
+              {
+                "id": 5235132344,
+                "odds": 1.47,
+                "odds_display": "-213",
+                "label": "Bills (+4.5)",
+                "abrev": "Bills (+4.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (5.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132366,
+                "odds": 2.72,
+                "odds_display": "+172",
+                "label": "Ravens (-5.5)",
+                "abrev": "Ravens (-5.5)"
+              },
+              {
+                "id": 5235132365,
+                "odds": 1.43,
+                "odds_display": "-233",
+                "label": "Bills (+5.5)",
+                "abrev": "Bills (+5.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (6.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132353,
+                "odds": 2.97,
+                "odds_display": "+197",
+                "label": "Ravens (-6.5)",
+                "abrev": "Ravens (-6.5)"
+              },
+              {
+                "id": 5235132352,
+                "odds": 1.38,
+                "odds_display": "-263",
+                "label": "Bills (+6.5)",
+                "abrev": "Bills (+6.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (7.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132347,
+                "odds": 3.65,
+                "odds_display": "+265",
+                "label": "Ravens (-7.5)",
+                "abrev": "Ravens (-7.5)"
+              },
+              {
+                "id": 5235132346,
+                "odds": 1.26,
+                "odds_display": "-385",
+                "label": "Bills (+7.5)",
+                "abrev": "Bills (+7.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (8.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132396,
+                "odds": 3.75,
+                "odds_display": "+275",
+                "label": "Ravens (-8.5)",
+                "abrev": "Ravens (-8.5)"
+              },
+              {
+                "id": 5235132395,
+                "odds": 1.26,
+                "odds_display": "-385",
+                "label": "Bills (+8.5)",
+                "abrev": "Bills (+8.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (9.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132339,
+                "odds": 3.9,
+                "odds_display": "+290",
+                "label": "Ravens (-9.5)",
+                "abrev": "Ravens (-9.5)"
+              },
+              {
+                "id": 5235132338,
+                "odds": 1.24,
+                "odds_display": "-417",
+                "label": "Bills (+9.5)",
+                "abrev": "Bills (+9.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (10.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132348,
+                "odds": 4.4,
+                "odds_display": "+340",
+                "label": "Ravens (-10.5)",
+                "abrev": "Ravens (-10.5)"
+              },
+              {
+                "id": 5235132349,
+                "odds": 1.19,
+                "odds_display": "-526",
+                "label": "Bills (+10.5)",
+                "abrev": "Bills (+10.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (11.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132357,
+                "odds": 4.8,
+                "odds_display": "+380",
+                "label": "Ravens (-11.5)",
+                "abrev": "Ravens (-11.5)"
+              },
+              {
+                "id": 5235132356,
+                "odds": 1.17,
+                "odds_display": "-588",
+                "label": "Bills (+11.5)",
+                "abrev": "Bills (+11.5)"
+              }
+            ]
+          },
+          {
+            "label": "Spread (12.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5235132381,
+                "odds": 5,
+                "odds_display": "+400",
+                "label": "Ravens (-12.5)",
+                "abrev": "Ravens (-12.5)"
+              },
+              {
+                "id": 5235132382,
+                "odds": 1.15,
+                "odds_display": "-667",
+                "label": "Bills (+12.5)",
+                "abrev": "Bills (+12.5)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 300,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Total",
+        "see_more": 3,
+        "filters": {
+          "710": 30,
+          "1000": 300
+        },
+        "bets": [
+          {
+            "label": "Over/Under 38.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966338,
+                "odds": 1.15,
+                "odds_display": "-667",
+                "label": "Over 38.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966339,
+                "odds": 5.4,
+                "odds_display": "+440",
+                "label": "Under 38.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 39.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5231563463,
+                "odds": 1.17,
+                "odds_display": "-588",
+                "label": "Over 39.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5231563461,
+                "odds": 5,
+                "odds_display": "+400",
+                "label": "Under 39.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 40.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966330,
+                "odds": 1.2,
+                "odds_display": "-500",
+                "label": "Over 40.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966331,
+                "odds": 4.6,
+                "odds_display": "+360",
+                "label": "Under 40.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 41.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966326,
+                "odds": 1.23,
+                "odds_display": "-435",
+                "label": "Over 41.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966327,
+                "odds": 4.1,
+                "odds_display": "+310",
+                "label": "Under 41.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 42.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966325,
+                "odds": 1.25,
+                "odds_display": "-400",
+                "label": "Over 42.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966324,
+                "odds": 3.9,
+                "odds_display": "+290",
+                "label": "Under 42.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 43.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966322,
+                "odds": 1.29,
+                "odds_display": "-345",
+                "label": "Over 43.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966323,
+                "odds": 3.55,
+                "odds_display": "+255",
+                "label": "Under 43.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 44.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5233762190,
+                "odds": 1.35,
+                "odds_display": "-286",
+                "label": "Over 44.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5233762191,
+                "odds": 3.15,
+                "odds_display": "+215",
+                "label": "Under 44.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 45.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966318,
+                "odds": 1.41,
+                "odds_display": "-244",
+                "label": "Over 45.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966319,
+                "odds": 2.92,
+                "odds_display": "+192",
+                "label": "Under 45.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 46.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966313,
+                "odds": 1.43,
+                "odds_display": "-233",
+                "label": "Over 46.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966314,
+                "odds": 2.77,
+                "odds_display": "+177",
+                "label": "Under 46.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 47.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5233416378,
+                "odds": 1.51,
+                "odds_display": "-196",
+                "label": "Over 47.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5233416377,
+                "odds": 2.52,
+                "odds_display": "+152",
+                "label": "Under 47.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 48.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966310,
+                "odds": 1.58,
+                "odds_display": "-172",
+                "label": "Over 48.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966309,
+                "odds": 2.35,
+                "odds_display": "+135",
+                "label": "Under 48.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 49.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5234504572,
+                "odds": 1.67,
+                "odds_display": "-149",
+                "label": "Over 49.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234504573,
+                "odds": 2.2,
+                "odds_display": "+120",
+                "label": "Under 49.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 50.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5234504696,
+                "odds": 1.75,
+                "odds_display": "-133",
+                "label": "Over 50.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234504697,
+                "odds": 2.05,
+                "odds_display": "+105",
+                "label": "Under 50.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 51.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5234046818,
+                "odds": 1.91,
+                "odds_display": "-110",
+                "label": "Over 51.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234046817,
+                "odds": 1.87,
+                "odds_display": "-115",
+                "label": "Under 51.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 52.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5234504649,
+                "odds": 2.02,
+                "odds_display": "+102",
+                "label": "Over 52.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234504648,
+                "odds": 1.77,
+                "odds_display": "-130",
+                "label": "Under 52.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 53.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5234504647,
+                "odds": 2.15,
+                "odds_display": "+115",
+                "label": "Over 53.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234504646,
+                "odds": 1.68,
+                "odds_display": "-147",
+                "label": "Under 53.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 54.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966348,
+                "odds": 2.22,
+                "odds_display": "+122",
+                "label": "Over 54.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966349,
+                "odds": 1.65,
+                "odds_display": "-154",
+                "label": "Under 54.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 55.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966345,
+                "odds": 2.42,
+                "odds_display": "+142",
+                "label": "Over 55.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966344,
+                "odds": 1.55,
+                "odds_display": "-182",
+                "label": "Under 55.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 56.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966343,
+                "odds": 2.52,
+                "odds_display": "+152",
+                "label": "Over 56.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966342,
+                "odds": 1.51,
+                "odds_display": "-196",
+                "label": "Under 56.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 57.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966341,
+                "odds": 2.72,
+                "odds_display": "+172",
+                "label": "Over 57.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966340,
+                "odds": 1.45,
+                "odds_display": "-222",
+                "label": "Under 57.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 58.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5234047050,
+                "odds": 3,
+                "odds_display": "+200",
+                "label": "Over 58.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234047049,
+                "odds": 1.37,
+                "odds_display": "-270",
+                "label": "Under 58.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 59.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966336,
+                "odds": 3.2,
+                "odds_display": "+220",
+                "label": "Over 59.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966337,
+                "odds": 1.35,
+                "odds_display": "-286",
+                "label": "Under 59.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 60.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966334,
+                "odds": 3.4,
+                "odds_display": "+240",
+                "label": "Over 60.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966335,
+                "odds": 1.31,
+                "odds_display": "-323",
+                "label": "Under 60.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 61.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5233416379,
+                "odds": 3.7,
+                "odds_display": "+270",
+                "label": "Over 61.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5233416380,
+                "odds": 1.27,
+                "odds_display": "-370",
+                "label": "Under 61.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 62.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5231563396,
+                "odds": 4,
+                "odds_display": "+300",
+                "label": "Over 62.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5231563395,
+                "odds": 1.24,
+                "odds_display": "-417",
+                "label": "Under 62.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 63.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5232966328,
+                "odds": 4.3,
+                "odds_display": "+330",
+                "label": "Over 63.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966329,
+                "odds": 1.21,
+                "odds_display": "-476",
+                "label": "Under 63.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Over/Under 64.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5231656466,
+                "odds": 4.7,
+                "odds_display": "+370",
+                "label": "Over 64.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5231656467,
+                "odds": 1.19,
+                "odds_display": "-526",
+                "label": "Under 64.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 315,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Bills - Total",
+        "see_more": 3,
+        "filters": {
+          "1000": 315,
+          "3911": 315
+        },
+        "bets": [
+          {
+            "label": "Bills - Over/Under 25.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5234824050,
+                "odds": 1.81,
+                "odds_display": "-123",
+                "label": "Over 25.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234824049,
+                "odds": 1.85,
+                "odds_display": "-118",
+                "label": "Under 25.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 320,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Ravens - Total",
+        "see_more": 3,
+        "filters": {
+          "1000": 320,
+          "3911": 320
+        },
+        "bets": [
+          {
+            "label": "Ravens - Over/Under 26.5 points (inc overtime)",
+            "selections": [
+              {
+                "id": 5234824055,
+                "odds": 1.87,
+                "odds_display": "-115",
+                "label": "Over 26.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234824056,
+                "odds": 1.81,
+                "odds_display": "-123",
+                "label": "Under 26.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 350,
+        "selection_order_type": "next_goal",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 350,
+          "3911": 350
+        },
+        "bets": [
+          {
+            "label": "First team to score",
+            "selections": [
+              {
+                "id": 5233402397,
+                "odds": 1.88,
+                "odds_display": "-114",
+                "label": "Bills",
+                "abrev": "Bills"
+              },
+              {
+                "id": 5233402396,
+                "odds": 1.78,
+                "odds_display": "-128",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 355,
+        "selection_order_type": "yes_no",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 355
+        },
+        "bets": [
+          {
+            "label": "Team scoring first to win the match",
+            "selections": [
+              {
+                "id": 5230245647,
+                "odds": 1.6,
+                "odds_display": "-167",
+                "label": "Yes",
+                "abrev": "Yes"
+              },
+              {
+                "id": 5230245646,
+                "odds": 2.2,
+                "odds_display": "+120",
+                "label": "No",
+                "abrev": "No"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 361,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Touchdowns Over/Under",
+        "see_more": 3,
+        "filters": {
+          "1000": 361,
+          "3911": 1500
+        },
+        "bets": [
+          {
+            "label": "Over/Under 6.5 touchdowns",
+            "selections": [
+              {
+                "id": 5232966011,
+                "odds": 2.25,
+                "odds_display": "+125",
+                "label": "Over 6.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966012,
+                "odds": 1.62,
+                "odds_display": "-161",
+                "label": "Under 6.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 363,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Bills - Touchdowns Over/Under",
+        "see_more": 3,
+        "filters": {
+          "1000": 363
+        },
+        "bets": [
+          {
+            "label": "Bills -  Over/Under 3.5 touchdowns",
+            "selections": [
+              {
+                "id": 5232966008,
+                "odds": 2.57,
+                "odds_display": "+157",
+                "label": "Over 3.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966007,
+                "odds": 1.48,
+                "odds_display": "-208",
+                "label": "Under 3.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 364,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Ravens - Touchdowns Over/Under",
+        "see_more": 3,
+        "filters": {
+          "1000": 364
+        },
+        "bets": [
+          {
+            "label": "Ravens -  Over/Under 3.5 touchdowns",
+            "selections": [
+              {
+                "id": 5232966020,
+                "odds": 2.42,
+                "odds_display": "+142",
+                "label": "Over 3.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232966019,
+                "odds": 1.53,
+                "odds_display": "-189",
+                "label": "Under 3.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 369,
+        "selection_order_type": "winning_margin_3way_tieonly",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 3,
+        "filters": {
+          "1000": 369
+        },
+        "bets": [
+          {
+            "label": "Winning margin (OT included)",
+            "selections": [
+              {
+                "id": 5235129423,
+                "odds": 5,
+                "odds_display": "+400",
+                "label": "Ravens win by 7-12",
+                "abrev": "Ravens win by 7-12"
+              },
+              {
+                "id": 5235129424,
+                "odds": 3.65,
+                "odds_display": "+265",
+                "label": "Bills win by 1-6",
+                "abrev": "Bills win by 1-6"
+              },
+              {
+                "id": 5235129425,
+                "odds": 14.5,
+                "odds_display": "+1350",
+                "label": "Bills win by 19-24",
+                "abrev": "Bills win by 19-24"
+              },
+              {
+                "id": 5235129426,
+                "odds": 14.5,
+                "odds_display": "+1350",
+                "label": "Ravens win by 19-24",
+                "abrev": "Ravens win by 19-24"
+              },
+              {
+                "id": 5235129427,
+                "odds": 3.55,
+                "odds_display": "+255",
+                "label": "Ravens win by 1-6",
+                "abrev": "Ravens win by 1-6"
+              },
+              {
+                "id": 5235129428,
+                "odds": 70,
+                "odds_display": "+6900",
+                "label": "Bills win by 37-42",
+                "abrev": "Bills win by 37-42"
+              },
+              {
+                "id": 5235129429,
+                "odds": 70,
+                "odds_display": "+6900",
+                "label": "Ravens win by 37-42",
+                "abrev": "Ravens win by 37-42"
+              },
+              {
+                "id": 5235129430,
+                "odds": 5.5,
+                "odds_display": "+450",
+                "label": "Bills win by 7-12",
+                "abrev": "Bills win by 7-12"
+              },
+              {
+                "id": 5235129431,
+                "odds": 90,
+                "odds_display": "+8900",
+                "label": "Bills win by more than 43",
+                "abrev": "Bills win by more than 43"
+              },
+              {
+                "id": 5235129432,
+                "odds": 40,
+                "odds_display": "+3900",
+                "label": "Bills win by 31-36",
+                "abrev": "Bills win by 31-36"
+              },
+              {
+                "id": 5235129433,
+                "odds": 40,
+                "odds_display": "+3900",
+                "label": "Ravens win by 31-36",
+                "abrev": "Ravens win by 31-36"
+              },
+              {
+                "id": 5235129434,
+                "odds": 90,
+                "odds_display": "+8900",
+                "label": "Ravens win by more than 43",
+                "abrev": "Ravens win by more than 43"
+              },
+              {
+                "id": 5235129435,
+                "odds": 8,
+                "odds_display": "+700",
+                "label": "Ravens win by 13-18",
+                "abrev": "Ravens win by 13-18"
+              },
+              {
+                "id": 5235129436,
+                "odds": 26,
+                "odds_display": "+2500",
+                "label": "Bills win by 25-30",
+                "abrev": "Bills win by 25-30"
+              },
+              {
+                "id": 5235129437,
+                "odds": 8,
+                "odds_display": "+700",
+                "label": "Bills win by 13-18",
+                "abrev": "Bills win by 13-18"
+              },
+              {
+                "id": 5235129438,
+                "odds": 26,
+                "odds_display": "+2500",
+                "label": "Ravens win by 25-30",
+                "abrev": "Ravens win by 25-30"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 373,
+        "selection_order_type": "moneyline",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "740": 13,
+          "1000": 373
+        },
+        "bets": [
+          {
+            "label": "Quarter 1 - Result (draw no bet)",
+            "selections": [
+              {
+                "id": 5234824057,
+                "odds": 1.83,
+                "odds_display": "-120",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5234824058,
+                "odds": 1.85,
+                "odds_display": "-118",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 376,
+        "selection_order_type": "handicap_2ways",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Quarter 1 - Spread",
+        "see_more": 3,
+        "filters": {
+          "740": 21,
+          "1000": 376
+        },
+        "bets": [
+          {
+            "label": "Quarter 1 - Spread (0.5) - Result",
+            "selections": [
+              {
+                "id": 5233398223,
+                "odds": 2.22,
+                "odds_display": "+122",
+                "label": "Ravens (-0.5)",
+                "abrev": "Ravens (-0.5)"
+              },
+              {
+                "id": 5233398222,
+                "odds": 1.58,
+                "odds_display": "-172",
+                "label": "Bills (+0.5)",
+                "abrev": "Bills (+0.5)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 381,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Quarter 1 - Points Over/Under",
+        "see_more": 3,
+        "filters": {
+          "740": 31,
+          "1000": 381
+        },
+        "bets": [
+          {
+            "label": "Quarter 1 - Over/Under 9.5 points",
+            "selections": [
+              {
+                "id": 5230395142,
+                "odds": 1.63,
+                "odds_display": "-159",
+                "label": "Over 9.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5230395141,
+                "odds": 2.1,
+                "odds_display": "+110",
+                "label": "Under 9.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 382,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Quarter 1 - Bills - Points Over/Under",
+        "see_more": 3,
+        "filters": {
+          "740": 35,
+          "1000": 382
+        },
+        "bets": [
+          {
+            "label": "Quarter 1 - Bills - Over/Under 6.5 points",
+            "selections": [
+              {
+                "id": 5233416585,
+                "odds": 1.91,
+                "odds_display": "-110",
+                "label": "Over 6.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5233416584,
+                "odds": 1.78,
+                "odds_display": "-128",
+                "label": "Under 6.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 382,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Quarter 1 - Ravens - Points Over/Under",
+        "see_more": 3,
+        "filters": {
+          "740": 36,
+          "1000": 382
+        },
+        "bets": [
+          {
+            "label": "Quarter 1 - Ravens - Over/Under 6.5 points",
+            "selections": [
+              {
+                "id": 5234504518,
+                "odds": 1.85,
+                "odds_display": "-118",
+                "label": "Over 6.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234504519,
+                "odds": 1.83,
+                "odds_display": "-120",
+                "label": "Under 6.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 390,
+        "selection_order_type": "race_to",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 3,
+        "group": "Quarter 1 - Points race",
+        "filters": {
+          "740": 40,
+          "1000": 390
+        },
+        "bets": [
+          {
+            "label": "Quarter 1 - Race to 6 points",
+            "selections": [
+              {
+                "id": 5231563250,
+                "odds": 2.35,
+                "odds_display": "+135",
+                "label": "Ravens - First to 6",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5231563249,
+                "odds": 2.55,
+                "odds_display": "+155",
+                "label": "Bills - First to 6",
+                "abrev": "Bills"
+              },
+              {
+                "id": 5231563251,
+                "odds": 3.7,
+                "odds_display": "+270",
+                "label": "Neither team to 6",
+                "abrev": "No team"
+              }
+            ]
+          },
+          {
+            "label": "Quarter 1 - Race to 9 points",
+            "selections": [
+              {
+                "id": 5231563246,
+                "odds": 4.6,
+                "odds_display": "+360",
+                "label": "Ravens - First to 9",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5231563247,
+                "odds": 5,
+                "odds_display": "+400",
+                "label": "Bills - First to 9",
+                "abrev": "Bills"
+              },
+              {
+                "id": 5231563248,
+                "odds": 1.48,
+                "odds_display": "-208",
+                "label": "Neither team to 9",
+                "abrev": "No team"
+              }
+            ]
+          },
+          {
+            "label": "Quarter 1 - Race to 12 points",
+            "selections": [
+              {
+                "id": 5231563244,
+                "odds": 7.75,
+                "odds_display": "+675",
+                "label": "Ravens - First to 12",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5231563245,
+                "odds": 8.75,
+                "odds_display": "+775",
+                "label": "Bills - First to 12",
+                "abrev": "Bills"
+              },
+              {
+                "id": 5231563243,
+                "odds": 1.18,
+                "odds_display": "-556",
+                "label": "Neither team to 12",
+                "abrev": "No team"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 391,
+        "selection_order_type": "yes_no",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "740": 45,
+          "1000": 391
+        },
+        "bets": [
+          {
+            "label": "Quarter 1 - Both teams to score",
+            "selections": [
+              {
+                "id": 5232870716,
+                "odds": 1.99,
+                "odds_display": "-101",
+                "label": "Yes",
+                "abrev": "Yes"
+              },
+              {
+                "id": 5232870715,
+                "odds": 1.72,
+                "odds_display": "-139",
+                "label": "No",
+                "abrev": "No"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 395,
+        "selection_order_type": "winning_margin_3way_tieonly",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 3,
+        "filters": {
+          "740": 50,
+          "1000": 395
+        },
+        "bets": [
+          {
+            "label": "Quarter 1 - Winning margin",
+            "selections": [
+              {
+                "id": 5231562895,
+                "odds": 3.8,
+                "odds_display": "+280",
+                "label": "Ravens win by 1-6",
+                "abrev": "Ravens win by 1-6"
+              },
+              {
+                "id": 5231562896,
+                "odds": 4,
+                "odds_display": "+300",
+                "label": "Bills win by 1-6",
+                "abrev": "Bills win by 1-6"
+              },
+              {
+                "id": 5231562897,
+                "odds": 3.8,
+                "odds_display": "+280",
+                "label": "Bills win by 7 or more",
+                "abrev": "Bills win by 7 or more"
+              },
+              {
+                "id": 5231562898,
+                "odds": 3.35,
+                "odds_display": "+235",
+                "label": "Tie",
+                "abrev": "Tie"
+              },
+              {
+                "id": 5231562899,
+                "odds": 3.35,
+                "odds_display": "+235",
+                "label": "Ravens win by 7 or more",
+                "abrev": "Ravens win by 7 or more"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 452,
+        "selection_order_type": "1x2",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 3,
+        "filters": {
+          "1000": 452,
+          "3911": 452
+        },
+        "bets": [
+          {
+            "label": "Quarter 2 - Result",
+            "selections": [
+              {
+                "id": 5233416618,
+                "odds": 2.1,
+                "odds_display": "+110",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5233416617,
+                "odds": 6.5,
+                "odds_display": "+550",
+                "label": "Tie",
+                "abrev": "Tie"
+              },
+              {
+                "id": 5233416619,
+                "odds": 2.17,
+                "odds_display": "+117",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 455,
+        "selection_order_type": "1x2",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 3,
+        "filters": {
+          "1000": 455,
+          "3911": 456
+        },
+        "bets": [
+          {
+            "label": "Quarter 3 - Result",
+            "selections": [
+              {
+                "id": 5233416367,
+                "odds": 2.17,
+                "odds_display": "+117",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5233416366,
+                "odds": 5.1,
+                "odds_display": "+410",
+                "label": "Tie",
+                "abrev": "Tie"
+              },
+              {
+                "id": 5233416365,
+                "odds": 2.32,
+                "odds_display": "+132",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 461,
+        "selection_order_type": "1x2",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 3,
+        "filters": {
+          "1000": 461
+        },
+        "bets": [
+          {
+            "label": "Quarter 4 - Result",
+            "selections": [
+              {
+                "id": 5232966005,
+                "odds": 2.12,
+                "odds_display": "+112",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5232966004,
+                "odds": 7,
+                "odds_display": "+600",
+                "label": "Tie",
+                "abrev": "Tie"
+              },
+              {
+                "id": 5232966006,
+                "odds": 2.12,
+                "odds_display": "+112",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 465,
+        "selection_order_type": "moneyline",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 465,
+          "3911": 453
+        },
+        "bets": [
+          {
+            "label": "Quarter 2 - Result (draw no bet)",
+            "selections": [
+              {
+                "id": 5232870748,
+                "odds": 1.78,
+                "odds_display": "-128",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5232870747,
+                "odds": 1.87,
+                "odds_display": "-115",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 466,
+        "selection_order_type": "moneyline",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 466,
+          "3911": 457
+        },
+        "bets": [
+          {
+            "label": "Quarter 3 - Result (draw no bet)",
+            "selections": [
+              {
+                "id": 5232966018,
+                "odds": 1.81,
+                "odds_display": "-123",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5232966017,
+                "odds": 1.87,
+                "odds_display": "-115",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 467,
+        "selection_order_type": "moneyline",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 467
+        },
+        "bets": [
+          {
+            "label": "Quarter 4 - Result (draw no bet)",
+            "selections": [
+              {
+                "id": 5232870740,
+                "odds": 1.82,
+                "odds_display": "-122",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5232870741,
+                "odds": 1.88,
+                "odds_display": "-114",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 481,
+        "selection_order_type": "handicap_2ways",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Quarter 2 - Spread",
+        "see_more": 3,
+        "filters": {
+          "1000": 481,
+          "3911": 481
+        },
+        "bets": [
+          {
+            "label": "Quarter 2 - Spread (0.5) - Result",
+            "selections": [
+              {
+                "id": 5231563264,
+                "odds": 2.07,
+                "odds_display": "+107",
+                "label": "Ravens (-0.5)",
+                "abrev": "Ravens (-0.5)"
+              },
+              {
+                "id": 5231563263,
+                "odds": 1.67,
+                "odds_display": "-149",
+                "label": "Bills (+0.5)",
+                "abrev": "Bills (+0.5)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 500,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Quarter 2 - Points Over/Under",
+        "see_more": 3,
+        "filters": {
+          "1000": 500,
+          "3911": 500
+        },
+        "bets": [
+          {
+            "label": "Quarter 2 - Over/Under 14.5 points",
+            "selections": [
+              {
+                "id": 5231562712,
+                "odds": 1.88,
+                "odds_display": "-114",
+                "label": "Over 14.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5231562713,
+                "odds": 1.8,
+                "odds_display": "-125",
+                "label": "Under 14.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 560,
+        "selection_order_type": "yes_no",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 560
+        },
+        "bets": [
+          {
+            "label": "Quarter 2 - Both teams to score",
+            "selections": [
+              {
+                "id": 5232882223,
+                "odds": 1.28,
+                "odds_display": "-357",
+                "label": "Yes",
+                "abrev": "Yes"
+              },
+              {
+                "id": 5232882224,
+                "odds": 3.3,
+                "odds_display": "+230",
+                "label": "No",
+                "abrev": "No"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 561,
+        "selection_order_type": "yes_no",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 561
+        },
+        "bets": [
+          {
+            "label": "Quarter 3 - Both teams to score",
+            "selections": [
+              {
+                "id": 5233402401,
+                "odds": 1.67,
+                "odds_display": "-149",
+                "label": "Yes",
+                "abrev": "Yes"
+              },
+              {
+                "id": 5233402402,
+                "odds": 2.07,
+                "odds_display": "+107",
+                "label": "No",
+                "abrev": "No"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 562,
+        "selection_order_type": "yes_no",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 562
+        },
+        "bets": [
+          {
+            "label": "Quarter 4 - Both teams to score",
+            "selections": [
+              {
+                "id": 5232966015,
+                "odds": 1.4,
+                "odds_display": "-250",
+                "label": "Yes",
+                "abrev": "Yes"
+              },
+              {
+                "id": 5232966016,
+                "odds": 2.7,
+                "odds_display": "+170",
+                "label": "No",
+                "abrev": "No"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 600,
+        "selection_order_type": "1x2",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 3,
+        "see_more": 3,
+        "filters": {
+          "730": 10,
+          "1000": 600
+        },
+        "bets": [
+          {
+            "label": "1st half - Result",
+            "selections": [
+              {
+                "id": 5233436578,
+                "odds": 1.98,
+                "odds_display": "-102",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5233436577,
+                "odds": 9.5,
+                "odds_display": "+850",
+                "label": "Tie",
+                "abrev": "Tie"
+              },
+              {
+                "id": 5233436576,
+                "odds": 2.05,
+                "odds_display": "+105",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 620,
+        "selection_order_type": "moneyline",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "730": 15,
+          "1000": 620
+        },
+        "bets": [
+          {
+            "label": "1st half - Draw no bet",
+            "selections": [
+              {
+                "id": 5234824054,
+                "odds": 1.81,
+                "odds_display": "-123",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5234824053,
+                "odds": 1.85,
+                "odds_display": "-118",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 630,
+        "selection_order_type": "handicap_2ways",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "1st half - Spread",
+        "see_more": 3,
+        "filters": {
+          "730": 20,
+          "1000": 630
+        },
+        "bets": [
+          {
+            "label": "1st half - Spread (0.5) - Result",
+            "selections": [
+              {
+                "id": 5235404513,
+                "odds": 1.99,
+                "odds_display": "-101",
+                "label": "Ravens (-0.5)",
+                "abrev": "Ravens (-0.5)"
+              },
+              {
+                "id": 5235404514,
+                "odds": 1.68,
+                "odds_display": "-147",
+                "label": "Bills (+0.5)",
+                "abrev": "Bills (+0.5)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 650,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "1st half - Points Over/Under",
+        "see_more": 3,
+        "filters": {
+          "730": 25,
+          "1000": 650
+        },
+        "bets": [
+          {
+            "label": "1st half - Over/Under 25.5 points",
+            "selections": [
+              {
+                "id": 5233840648,
+                "odds": 1.83,
+                "odds_display": "-120",
+                "label": "Over 25.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5233840649,
+                "odds": 1.85,
+                "odds_display": "-118",
+                "label": "Under 25.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 677,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "1st half - Touchdowns Over/Under",
+        "see_more": 3,
+        "filters": {
+          "1000": 677
+        },
+        "bets": [
+          {
+            "label": "1st half - Over/Under 2.5 touchdown scored?",
+            "selections": [
+              {
+                "id": 5233436773,
+                "odds": 1.53,
+                "odds_display": "-189",
+                "label": "Over 2.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5233436772,
+                "odds": 2.3,
+                "odds_display": "+130",
+                "label": "Under 2.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 678,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "1st half - Field Goals Over/Under",
+        "see_more": 3,
+        "filters": {
+          "1000": 678
+        },
+        "bets": [
+          {
+            "label": "1st half - Over/Under 1.5 field goals scored ?",
+            "selections": [
+              {
+                "id": 5233435968,
+                "odds": 1.7,
+                "odds_display": "-143",
+                "label": "Over 1.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5233435969,
+                "odds": 2,
+                "odds_display": "+100",
+                "label": "Under 1.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 680,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "1st half - Bills - Touchdowns Over/Under",
+        "see_more": 3,
+        "filters": {
+          "1000": 680
+        },
+        "bets": [
+          {
+            "label": "1st half - Bills -  Over/Under 1.5 touchdowns",
+            "selections": [
+              {
+                "id": 5232885466,
+                "odds": 2,
+                "odds_display": "+100",
+                "label": "Over 1.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232885465,
+                "odds": 1.7,
+                "odds_display": "-143",
+                "label": "Under 1.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 681,
+        "selection_order_type": "over_under",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "1st half - Ravens - Touchdowns Over/Under",
+        "see_more": 3,
+        "filters": {
+          "1000": 681
+        },
+        "bets": [
+          {
+            "label": "1st half - Ravens -  Over/Under 1.5 touchdowns",
+            "selections": [
+              {
+                "id": 5232885468,
+                "odds": 1.97,
+                "odds_display": "-103",
+                "label": "Over 1.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5232885467,
+                "odds": 1.73,
+                "odds_display": "-137",
+                "label": "Under 1.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 700,
+        "selection_order_type": "1x2",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 3,
+        "filters": {
+          "1000": 700,
+          "3911": 700
+        },
+        "bets": [
+          {
+            "label": "2nd half - Result",
+            "selections": [
+              {
+                "id": 5231866161,
+                "odds": 1.93,
+                "odds_display": "-108",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5231866160,
+                "odds": 12,
+                "odds_display": "+1100",
+                "label": "Tie",
+                "abrev": "Tie"
+              },
+              {
+                "id": 5231866162,
+                "odds": 2,
+                "odds_display": "+100",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 702,
+        "selection_order_type": "moneyline",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 702
+        },
+        "bets": [
+          {
+            "label": "2nd half - Draw no bet (inc. OT)",
+            "selections": [
+              {
+                "id": 5232886538,
+                "odds": 1.78,
+                "odds_display": "-128",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              },
+              {
+                "id": 5232886537,
+                "odds": 1.91,
+                "odds_display": "-110",
+                "label": "Bills",
+                "abrev": "Bills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 721,
+        "selection_order_type": "handicap_2ways",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "2nd half - Spread (inc overtime)",
+        "see_more": 3,
+        "filters": {
+          "1000": 721,
+          "3911": 721
+        },
+        "bets": [
+          {
+            "label": "2nd half - Spread (0.5) - Result (inc overtime)",
+            "selections": [
+              {
+                "id": 5231564291,
+                "odds": 1.93,
+                "odds_display": "-108",
+                "label": "Ravens (-0.5)",
+                "abrev": "Ravens (-0.5)"
+              },
+              {
+                "id": 5231564292,
+                "odds": 1.75,
+                "odds_display": "-133",
+                "label": "Bills (+0.5)",
+                "abrev": "Bills (+0.5)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 801,
+        "selection_order_type": "yes_no",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 801,
+          "3911": 801
+        },
+        "bets": [
+          {
+            "label": "Will there be extra-time",
+            "selections": [
+              {
+                "id": 5232870729,
+                "odds": 10.5,
+                "odds_display": "+950",
+                "label": "Yes",
+                "abrev": "Yes"
+              },
+              {
+                "id": 5232870728,
+                "odds": 1.01,
+                "odds_display": "-10000",
+                "label": "No",
+                "abrev": "No"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 805,
+        "selection_order_type": "yes_no",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 805,
+          "3911": 805
+        },
+        "bets": [
+          {
+            "label": "Bills to win both halves",
+            "selections": [
+              {
+                "id": 5233416363,
+                "odds": 4.8,
+                "odds_display": "+380",
+                "label": "Yes",
+                "abrev": "Yes"
+              },
+              {
+                "id": 5233416364,
+                "odds": 1.13,
+                "odds_display": "-769",
+                "label": "No",
+                "abrev": "No"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 806,
+        "selection_order_type": "yes_no",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 806,
+          "3911": 806
+        },
+        "bets": [
+          {
+            "label": "Ravens to win both halves",
+            "selections": [
+              {
+                "id": 5231129208,
+                "odds": 4.4,
+                "odds_display": "+340",
+                "label": "Yes",
+                "abrev": "Yes"
+              },
+              {
+                "id": 5231129209,
+                "odds": 1.16,
+                "odds_display": "-625",
+                "label": "No",
+                "abrev": "No"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 900,
+        "selection_order_type": "next_goal",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 900,
+          "3911": 900
+        },
+        "bets": [
+          {
+            "label": "Last team to score",
+            "selections": [
+              {
+                "id": 5230030249,
+                "odds": 1.83,
+                "odds_display": "-120",
+                "label": "Bills",
+                "abrev": "Bills"
+              },
+              {
+                "id": 5230030250,
+                "odds": 1.83,
+                "odds_display": "-120",
+                "label": "Ravens",
+                "abrev": "Ravens"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 1000,
+        "selection_order_type": "odds_asc",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "see_more": 5,
+        "filters": {
+          "720": 10,
+          "1000": 1000
+        },
+        "bets": [
+          {
+            "label": "Anytime touchdown scorer",
+            "selections": [
+              {
+                "id": 5235363296,
+                "odds": 1.43,
+                "odds_display": "-233",
+                "label": "Derrick Henry",
+                "abrev": "Derrick Henry"
+              },
+              {
+                "id": 5235363302,
+                "odds": 1.99,
+                "odds_display": "-101",
+                "label": "James Cook",
+                "abrev": "James Cook"
+              },
+              {
+                "id": 5235363299,
+                "odds": 2.02,
+                "odds_display": "+102",
+                "label": "Josh Allen",
+                "abrev": "Josh Allen"
+              },
+              {
+                "id": 5235363306,
+                "odds": 2.6,
+                "odds_display": "+160",
+                "label": "Rashod Bateman",
+                "abrev": "Rashod Bateman"
+              },
+              {
+                "id": 5235363288,
+                "odds": 2.67,
+                "odds_display": "+167",
+                "label": "Zay Flowers",
+                "abrev": "Zay Flowers"
+              },
+              {
+                "id": 5235363295,
+                "odds": 2.67,
+                "odds_display": "+167",
+                "label": "Mark Andrews",
+                "abrev": "Mark Andrews"
+              },
+              {
+                "id": 5235363308,
+                "odds": 2.82,
+                "odds_display": "+182",
+                "label": "Lamar Jackson",
+                "abrev": "Lamar Jackson"
+              },
+              {
+                "id": 5235363285,
+                "odds": 3,
+                "odds_display": "+200",
+                "label": "Khalil Shakir",
+                "abrev": "Khalil Shakir"
+              },
+              {
+                "id": 5235363284,
+                "odds": 3.65,
+                "odds_display": "+265",
+                "label": "Dalton Kincaid",
+                "abrev": "Dalton Kincaid"
+              },
+              {
+                "id": 5235363310,
+                "odds": 3.65,
+                "odds_display": "+265",
+                "label": "Isaiah Likely",
+                "abrev": "Isaiah Likely"
+              },
+              {
+                "id": 5235363291,
+                "odds": 3.65,
+                "odds_display": "+265",
+                "label": "Keon Coleman",
+                "abrev": "Keon Coleman"
+              },
+              {
+                "id": 5235363292,
+                "odds": 5.8,
+                "odds_display": "+480",
+                "label": "Amari Cooper",
+                "abrev": "Amari Cooper"
+              },
+              {
+                "id": 5235363305,
+                "odds": 5.8,
+                "odds_display": "+480",
+                "label": "Mack Hollins",
+                "abrev": "Mack Hollins"
+              },
+              {
+                "id": 5235363311,
+                "odds": 6.1,
+                "odds_display": "+510",
+                "label": "Ty Johnson",
+                "abrev": "Ty Johnson"
+              },
+              {
+                "id": 5235363298,
+                "odds": 6.3,
+                "odds_display": "+530",
+                "label": "Curtis Samuel",
+                "abrev": "Curtis Samuel"
+              },
+              {
+                "id": 5235363294,
+                "odds": 6.3,
+                "odds_display": "+530",
+                "label": "Justice Hill",
+                "abrev": "Justice Hill"
+              },
+              {
+                "id": 5235363289,
+                "odds": 6.3,
+                "odds_display": "+530",
+                "label": "Ray Davis",
+                "abrev": "Ray Davis"
+              },
+              {
+                "id": 5235363301,
+                "odds": 6.75,
+                "odds_display": "+575",
+                "label": "Baltimore Ravens D/ST",
+                "abrev": "Baltimore Ravens D/ST"
+              },
+              {
+                "id": 5235363304,
+                "odds": 6.75,
+                "odds_display": "+575",
+                "label": "Dawson Knox",
+                "abrev": "Dawson Knox"
+              },
+              {
+                "id": 5235363293,
+                "odds": 6.75,
+                "odds_display": "+575",
+                "label": "Buffalo Bills D/ST",
+                "abrev": "Buffalo Bills D/ST"
+              },
+              {
+                "id": 5235363307,
+                "odds": 7.25,
+                "odds_display": "+625",
+                "label": "Nelson Agholor",
+                "abrev": "Nelson Agholor"
+              },
+              {
+                "id": 5235363287,
+                "odds": 8.25,
+                "odds_display": "+725",
+                "label": "Tylan Wallace",
+                "abrev": "Tylan Wallace"
+              },
+              {
+                "id": 5235363300,
+                "odds": 16,
+                "odds_display": "+1500",
+                "label": "Quintin Morris",
+                "abrev": "Quintin Morris"
+              },
+              {
+                "id": 5235363309,
+                "odds": 20,
+                "odds_display": "+1900",
+                "label": "Devontez Walker",
+                "abrev": "Devontez Walker"
+              },
+              {
+                "id": 5235363297,
+                "odds": 25,
+                "odds_display": "+2400",
+                "label": "Keaton Mitchell",
+                "abrev": "Keaton Mitchell"
+              },
+              {
+                "id": 5235363286,
+                "odds": 28,
+                "odds_display": "+2700",
+                "label": "Steven Sims",
+                "abrev": "Steven Sims"
+              },
+              {
+                "id": 5235363303,
+                "odds": 30,
+                "odds_display": "+2900",
+                "label": "Rasheen Ali",
+                "abrev": "Rasheen Ali"
+              },
+              {
+                "id": 5235363290,
+                "odds": 30,
+                "odds_display": "+2900",
+                "label": "Patrick Ricard",
+                "abrev": "Patrick Ricard"
+              },
+              {
+                "id": 5235363312,
+                "odds": 30,
+                "odds_display": "+2900",
+                "label": "Reggie Gilliam",
+                "abrev": "Reggie Gilliam"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 1010,
+        "selection_order_type": "odds_asc",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "see_more": 5,
+        "filters": {
+          "720": 15,
+          "1000": 1010
+        },
+        "bets": [
+          {
+            "label": "First touchdown scorer",
+            "selections": [
+              {
+                "id": 5235404506,
+                "odds": 4.7,
+                "odds_display": "+370",
+                "label": "Derrick Henry",
+                "abrev": "Derrick Henry"
+              },
+              {
+                "id": 5235404503,
+                "odds": 7.25,
+                "odds_display": "+625",
+                "label": "Josh Allen",
+                "abrev": "Josh Allen"
+              },
+              {
+                "id": 5235404510,
+                "odds": 7.5,
+                "odds_display": "+650",
+                "label": "James Cook",
+                "abrev": "James Cook"
+              },
+              {
+                "id": 5235404488,
+                "odds": 11,
+                "odds_display": "+1000",
+                "label": "Mark Andrews",
+                "abrev": "Mark Andrews"
+              },
+              {
+                "id": 5235404487,
+                "odds": 11,
+                "odds_display": "+1000",
+                "label": "Rashod Bateman",
+                "abrev": "Rashod Bateman"
+              },
+              {
+                "id": 5235404497,
+                "odds": 12,
+                "odds_display": "+1100",
+                "label": "Zay Flowers",
+                "abrev": "Zay Flowers"
+              },
+              {
+                "id": 5235404512,
+                "odds": 13,
+                "odds_display": "+1200",
+                "label": "Lamar Jackson",
+                "abrev": "Lamar Jackson"
+              },
+              {
+                "id": 5235404495,
+                "odds": 14,
+                "odds_display": "+1300",
+                "label": "Khalil Shakir",
+                "abrev": "Khalil Shakir"
+              },
+              {
+                "id": 5235404483,
+                "odds": 17,
+                "odds_display": "+1600",
+                "label": "Isaiah Likely",
+                "abrev": "Isaiah Likely"
+              },
+              {
+                "id": 5235404500,
+                "odds": 17,
+                "odds_display": "+1600",
+                "label": "Dalton Kincaid",
+                "abrev": "Dalton Kincaid"
+              },
+              {
+                "id": 5235404496,
+                "odds": 18,
+                "odds_display": "+1700",
+                "label": "Keon Coleman",
+                "abrev": "Keon Coleman"
+              },
+              {
+                "id": 5235404494,
+                "odds": 25,
+                "odds_display": "+2400",
+                "label": "Mack Hollins",
+                "abrev": "Mack Hollins"
+              },
+              {
+                "id": 5235404507,
+                "odds": 27,
+                "odds_display": "+2600",
+                "label": "Amari Cooper",
+                "abrev": "Amari Cooper"
+              },
+              {
+                "id": 5235404489,
+                "odds": 28,
+                "odds_display": "+2700",
+                "label": "Justice Hill",
+                "abrev": "Justice Hill"
+              },
+              {
+                "id": 5235404502,
+                "odds": 28,
+                "odds_display": "+2700",
+                "label": "Ray Davis",
+                "abrev": "Ray Davis"
+              },
+              {
+                "id": 5235404490,
+                "odds": 29,
+                "odds_display": "+2800",
+                "label": "Buffalo Bills D/ST",
+                "abrev": "Buffalo Bills D/ST"
+              },
+              {
+                "id": 5235404486,
+                "odds": 29,
+                "odds_display": "+2800",
+                "label": "Baltimore Ravens D/ST",
+                "abrev": "Baltimore Ravens D/ST"
+              },
+              {
+                "id": 5235404505,
+                "odds": 30,
+                "odds_display": "+2900",
+                "label": "Dawson Knox",
+                "abrev": "Dawson Knox"
+              },
+              {
+                "id": 5235404504,
+                "odds": 30,
+                "odds_display": "+2900",
+                "label": "Curtis Samuel",
+                "abrev": "Curtis Samuel"
+              },
+              {
+                "id": 5235404482,
+                "odds": 30,
+                "odds_display": "+2900",
+                "label": "Nelson Agholor",
+                "abrev": "Nelson Agholor"
+              },
+              {
+                "id": 5235404491,
+                "odds": 30,
+                "odds_display": "+2900",
+                "label": "Ty Johnson",
+                "abrev": "Ty Johnson"
+              },
+              {
+                "id": 5235404484,
+                "odds": 32,
+                "odds_display": "+3100",
+                "label": "Tylan Wallace",
+                "abrev": "Tylan Wallace"
+              },
+              {
+                "id": 5235404492,
+                "odds": 60,
+                "odds_display": "+5900",
+                "label": "Charlie Kolar",
+                "abrev": "Charlie Kolar"
+              },
+              {
+                "id": 5235404501,
+                "odds": 60,
+                "odds_display": "+5900",
+                "label": "Quintin Morris",
+                "abrev": "Quintin Morris"
+              },
+              {
+                "id": 5235404485,
+                "odds": 70,
+                "odds_display": "+6900",
+                "label": "Keaton Mitchell",
+                "abrev": "Keaton Mitchell"
+              },
+              {
+                "id": 5235404511,
+                "odds": 70,
+                "odds_display": "+6900",
+                "label": "Devontez Walker",
+                "abrev": "Devontez Walker"
+              },
+              {
+                "id": 5235404499,
+                "odds": 80,
+                "odds_display": "+7900",
+                "label": "Steven Sims",
+                "abrev": "Steven Sims"
+              },
+              {
+                "id": 5235404509,
+                "odds": 80,
+                "odds_display": "+7900",
+                "label": "Rasheen Ali",
+                "abrev": "Rasheen Ali"
+              },
+              {
+                "id": 5235404498,
+                "odds": 90,
+                "odds_display": "+8900",
+                "label": "Patrick Ricard",
+                "abrev": "Patrick Ricard"
+              },
+              {
+                "id": 5235404508,
+                "odds": 90,
+                "odds_display": "+8900",
+                "label": "Reggie Gilliam",
+                "abrev": "Reggie Gilliam"
+              },
+              {
+                "id": 5235404493,
+                "odds": 125,
+                "odds_display": "+12400",
+                "label": "No Touchdown Scorer",
+                "abrev": "No Touchdown Scorer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 1100,
+        "selection_order_type": "odds_asc",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "see_more": 5,
+        "filters": {
+          "720": 50,
+          "1000": 1100
+        },
+        "bets": [
+          {
+            "label": "To score 2 or more touchdowns",
+            "selections": [
+              {
+                "id": 5235081125,
+                "odds": 3.7,
+                "odds_display": "+270",
+                "label": "Derrick Henry",
+                "abrev": "Derrick Henry"
+              },
+              {
+                "id": 5235081135,
+                "odds": 7.75,
+                "odds_display": "+675",
+                "label": "James Cook",
+                "abrev": "James Cook"
+              },
+              {
+                "id": 5235081119,
+                "odds": 7.75,
+                "odds_display": "+675",
+                "label": "Josh Allen",
+                "abrev": "Josh Allen"
+              },
+              {
+                "id": 5235081113,
+                "odds": 13,
+                "odds_display": "+1200",
+                "label": "Mark Andrews",
+                "abrev": "Mark Andrews"
+              },
+              {
+                "id": 5235081132,
+                "odds": 14,
+                "odds_display": "+1300",
+                "label": "Rashod Bateman",
+                "abrev": "Rashod Bateman"
+              },
+              {
+                "id": 5235081115,
+                "odds": 15,
+                "odds_display": "+1400",
+                "label": "Zay Flowers",
+                "abrev": "Zay Flowers"
+              },
+              {
+                "id": 5235081120,
+                "odds": 16,
+                "odds_display": "+1500",
+                "label": "Khalil Shakir",
+                "abrev": "Khalil Shakir"
+              },
+              {
+                "id": 5235081123,
+                "odds": 18,
+                "odds_display": "+1700",
+                "label": "Lamar Jackson",
+                "abrev": "Lamar Jackson"
+              },
+              {
+                "id": 5235081117,
+                "odds": 24,
+                "odds_display": "+2300",
+                "label": "Keon Coleman",
+                "abrev": "Keon Coleman"
+              },
+              {
+                "id": 5235081112,
+                "odds": 27,
+                "odds_display": "+2600",
+                "label": "Dalton Kincaid",
+                "abrev": "Dalton Kincaid"
+              },
+              {
+                "id": 5235081129,
+                "odds": 29,
+                "odds_display": "+2800",
+                "label": "Isaiah Likely",
+                "abrev": "Isaiah Likely"
+              },
+              {
+                "id": 5235081126,
+                "odds": 45,
+                "odds_display": "+4400",
+                "label": "Baltimore Ravens D/ST",
+                "abrev": "Baltimore Ravens D/ST"
+              },
+              {
+                "id": 5235081127,
+                "odds": 60,
+                "odds_display": "+5900",
+                "label": "Ty Johnson",
+                "abrev": "Ty Johnson"
+              },
+              {
+                "id": 5235081133,
+                "odds": 60,
+                "odds_display": "+5900",
+                "label": "Buffalo Bills D/ST",
+                "abrev": "Buffalo Bills D/ST"
+              },
+              {
+                "id": 5235081121,
+                "odds": 60,
+                "odds_display": "+5900",
+                "label": "Ray Davis",
+                "abrev": "Ray Davis"
+              },
+              {
+                "id": 5235081111,
+                "odds": 60,
+                "odds_display": "+5900",
+                "label": "Mack Hollins",
+                "abrev": "Mack Hollins"
+              },
+              {
+                "id": 5235081124,
+                "odds": 60,
+                "odds_display": "+5900",
+                "label": "Amari Cooper",
+                "abrev": "Amari Cooper"
+              },
+              {
+                "id": 5235081130,
+                "odds": 80,
+                "odds_display": "+7900",
+                "label": "Curtis Samuel",
+                "abrev": "Curtis Samuel"
+              },
+              {
+                "id": 5235081118,
+                "odds": 80,
+                "odds_display": "+7900",
+                "label": "Justice Hill",
+                "abrev": "Justice Hill"
+              },
+              {
+                "id": 5235081110,
+                "odds": 80,
+                "odds_display": "+7900",
+                "label": "Dawson Knox",
+                "abrev": "Dawson Knox"
+              },
+              {
+                "id": 5235081114,
+                "odds": 90,
+                "odds_display": "+8900",
+                "label": "Nelson Agholor",
+                "abrev": "Nelson Agholor"
+              },
+              {
+                "id": 5235081116,
+                "odds": 90,
+                "odds_display": "+8900",
+                "label": "Tylan Wallace",
+                "abrev": "Tylan Wallace"
+              },
+              {
+                "id": 5235081128,
+                "odds": 175,
+                "odds_display": "+17400",
+                "label": "Devontez Walker",
+                "abrev": "Devontez Walker"
+              },
+              {
+                "id": 5235081131,
+                "odds": 175,
+                "odds_display": "+17400",
+                "label": "Steven Sims",
+                "abrev": "Steven Sims"
+              },
+              {
+                "id": 5235081134,
+                "odds": 175,
+                "odds_display": "+17400",
+                "label": "Charlie Kolar",
+                "abrev": "Charlie Kolar"
+              },
+              {
+                "id": 5235081122,
+                "odds": 225,
+                "odds_display": "+22400",
+                "label": "Patrick Ricard",
+                "abrev": "Patrick Ricard"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 1200,
+        "selection_order_type": "odds_asc",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "see_more": 5,
+        "filters": {
+          "720": 55,
+          "1000": 1200
+        },
+        "bets": [
+          {
+            "label": "To score 3 or more touchdowns",
+            "selections": [
+              {
+                "id": 5235081068,
+                "odds": 12,
+                "odds_display": "+1100",
+                "label": "Derrick Henry",
+                "abrev": "Derrick Henry"
+              },
+              {
+                "id": 5235081064,
+                "odds": 37,
+                "odds_display": "+3600",
+                "label": "Josh Allen",
+                "abrev": "Josh Allen"
+              },
+              {
+                "id": 5235081076,
+                "odds": 45,
+                "odds_display": "+4400",
+                "label": "James Cook",
+                "abrev": "James Cook"
+              },
+              {
+                "id": 5235081063,
+                "odds": 90,
+                "odds_display": "+8900",
+                "label": "Khalil Shakir",
+                "abrev": "Khalil Shakir"
+              },
+              {
+                "id": 5235081067,
+                "odds": 90,
+                "odds_display": "+8900",
+                "label": "Rashod Bateman",
+                "abrev": "Rashod Bateman"
+              },
+              {
+                "id": 5235081069,
+                "odds": 90,
+                "odds_display": "+8900",
+                "label": "Zay Flowers",
+                "abrev": "Zay Flowers"
+              },
+              {
+                "id": 5235081070,
+                "odds": 90,
+                "odds_display": "+8900",
+                "label": "Mark Andrews",
+                "abrev": "Mark Andrews"
+              },
+              {
+                "id": 5235081074,
+                "odds": 125,
+                "odds_display": "+12400",
+                "label": "Lamar Jackson",
+                "abrev": "Lamar Jackson"
+              },
+              {
+                "id": 5235081062,
+                "odds": 150,
+                "odds_display": "+14900",
+                "label": "Keon Coleman",
+                "abrev": "Keon Coleman"
+              },
+              {
+                "id": 5235081065,
+                "odds": 150,
+                "odds_display": "+14900",
+                "label": "Dalton Kincaid",
+                "abrev": "Dalton Kincaid"
+              },
+              {
+                "id": 5235081073,
+                "odds": 150,
+                "odds_display": "+14900",
+                "label": "Isaiah Likely",
+                "abrev": "Isaiah Likely"
+              },
+              {
+                "id": 5235081071,
+                "odds": 175,
+                "odds_display": "+17400",
+                "label": "Amari Cooper",
+                "abrev": "Amari Cooper"
+              },
+              {
+                "id": 5235081066,
+                "odds": 225,
+                "odds_display": "+22400",
+                "label": "Dawson Knox",
+                "abrev": "Dawson Knox"
+              },
+              {
+                "id": 5235081072,
+                "odds": 225,
+                "odds_display": "+22400",
+                "label": "Ty Johnson",
+                "abrev": "Ty Johnson"
+              },
+              {
+                "id": 5235081075,
+                "odds": 225,
+                "odds_display": "+22400",
+                "label": "Mack Hollins",
+                "abrev": "Mack Hollins"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 1250,
+        "selection_order_type": "player_props",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "group": "Player Props - Kicking points Over/Under",
+        "filters": {
+          "720": 60,
+          "1000": 1250
+        },
+        "bets": [
+          {
+            "label": "Justin Tucker - Over/Under 7.5 kicking points",
+            "selections": [
+              {
+                "id": 5234628925,
+                "odds": 1.95,
+                "odds_display": "-105",
+                "label": "Justin Tucker - Over 7.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234628924,
+                "odds": 1.61,
+                "odds_display": "-164",
+                "label": "Justin Tucker - Under 7.5",
+                "abrev": "Under"
+              }
+            ]
+          },
+          {
+            "label": "Tyler Bass - Over/Under 6.5 kicking points",
+            "selections": [
+              {
+                "id": 5234628926,
+                "odds": 1.73,
+                "odds_display": "-137",
+                "label": "Tyler Bass - Over 6.5",
+                "abrev": "Over"
+              },
+              {
+                "id": 5234628927,
+                "odds": 1.78,
+                "odds_display": "-128",
+                "label": "Tyler Bass - Under 6.5",
+                "abrev": "Under"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 10000,
+        "selection_order_type": "odd_even",
+        "is_cashoutable": false,
+        "nb_selection_by_line": 2,
+        "filters": {
+          "1000": 10000,
+          "3911": 10000
+        },
+        "bets": [
+          {
+            "label": "Total points - Odd/Even (inc overtime)",
+            "selections": [
+              {
+                "id": 5231131931,
+                "odds": 1.68,
+                "odds_display": "-147",
+                "label": "Odd",
+                "abrev": "Odd"
+              },
+              {
+                "id": 5231131932,
+                "odds": 2,
+                "odds_display": "+100",
+                "label": "Even",
+                "abrev": "Even"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "bet_builder_id": 422575,
+    "id": 8866278,
+    "label": "Ravens / Bills",
+    "sport": {
+      "id": 7,
+      "label": "Football",
+      "icon": "foot-us"
+    },
+    "category": {
+      "id": 56,
+      "label": "United States"
+    },
+    "competition": {
+      "id": 341,
+      "label": "NFL",
+      "display_mode": "at"
+    },
+    "url": "/en_us/evenement/8866278-ravens-bills",
+    "start": "2025-01-20T00:30:00.000+01:00",
+    "creation": "2025-01-12T21:25:54.000+01:00",
+    "betbuilder": {
+      "name": "Same Game Parlay",
+      "description": "Build your SGP now!",
+      "icon": "/img/market/betbuilder/SGPIcon-6ff70f0ffad488b68d856f89b1cff7a13c68d951-c66e19b146283a22dbdf32f330b37f30db65a378.png",
+      "icon_url": "https://sportsbook.crabsports.com/img/market/betbuilder/SGPIcon-6ff70f0ffad488b68d856f89b1cff7a13c68d951-c66e19b146283a22dbdf32f330b37f30db65a378.png",
+      "button_description": "Build now!",
+      "url": "https://public-prod-gen2.sportcastlive.com?key=0469dbaf-4766-4e05-810c-32a08d86daea&fixtureId=422575&brand=crabsport&odds=AmericanPrice&culture=en-US&region=maryland&pos=rev",
+      "id": 422575
+    }
+  },
+  {
+    "filter_all": "filter_all",
+    "label_live": "event_list_label_live",
+    "label_today": "event_list_label_today",
+    "today_label": "event_list_label_today",
+    "label_today_short": "event_list_label_today_short",
+    "filter_goal_scorer": "filter_goal_scorer",
+    "label_button_show_less": "bet_list_label_show_less",
+    "label_button_show_more": "bet_list_label_show_more"
+  }
+]
