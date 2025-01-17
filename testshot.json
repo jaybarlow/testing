@@ -1,0 +1,3463 @@
+{
+    "event": {
+      "ts_creation": 1736446941,
+      "is_active": true,
+      "is_canceled": false,
+      "is_cashoutable": true,
+      "ts_start": 1737235800,
+      "type": "pm",
+      "state": "pm",
+      "event_live_id": 8872212,
+      "nb_bets": 106,
+      "match_id": "11788625",
+      "odds_provider_id": 4,
+      "actors": [
+        {
+          "id": 695130,
+          "type": "home",
+          "label": "Texans",
+          "abrev": "Texans"
+        },
+        {
+          "id": 695127,
+          "type": "away",
+          "label": "Chiefs",
+          "abrev": "Chiefs"
+        }
+      ],
+      "filters": [
+        {
+          "id": 1000,
+          "label": "All",
+          "order": 0
+        },
+        {
+          "id": 710,
+          "label": "Popular",
+          "order": 1
+        },
+        {
+          "id": 720,
+          "label": "Player Props",
+          "order": 2
+        },
+        {
+          "id": 730,
+          "label": "1st Half",
+          "order": 5
+        },
+        {
+          "id": 740,
+          "label": "Quarter 1",
+          "order": 7
+        },
+        {
+          "id": 3911,
+          "label": "Others",
+          "order": 500
+        }
+      ],
+      "markets": [
+        {
+          "order": 1,
+          "selection_order_type": "moneyline",
+          "is_cashoutable": true,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "710": 10,
+            "1000": 1
+          },
+          "bets": [
+            {
+              "label": "Moneyline",
+              "selections": [
+                {
+                  "id": 5233988693,
+                  "odds": 4.6,
+                  "odds_display": "+360",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5233988694,
+                  "odds": 1.21,
+                  "odds_display": "-476",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 200,
+          "selection_order_type": "handicap_2ways",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Spread",
+          "see_more": 3,
+          "filters": {
+            "710": 20,
+            "1000": 200
+          },
+          "bets": [
+            {
+              "label": "Spread (-21.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951508,
+                  "odds": 1.14,
+                  "odds_display": "-714",
+                  "label": "Texans (+21.5)",
+                  "abrev": "Texans (+21.5)"
+                },
+                {
+                  "id": 5233951509,
+                  "odds": 5.2,
+                  "odds_display": "+420",
+                  "label": "Chiefs (-21.5)",
+                  "abrev": "Chiefs (-21.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-20.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951503,
+                  "odds": 1.18,
+                  "odds_display": "-556",
+                  "label": "Texans (+20.5)",
+                  "abrev": "Texans (+20.5)"
+                },
+                {
+                  "id": 5233951502,
+                  "odds": 4.7,
+                  "odds_display": "+370",
+                  "label": "Chiefs (-20.5)",
+                  "abrev": "Chiefs (-20.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-19.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232725393,
+                  "odds": 1.21,
+                  "odds_display": "-476",
+                  "label": "Texans (+19.5)",
+                  "abrev": "Texans (+19.5)"
+                },
+                {
+                  "id": 5232725394,
+                  "odds": 4.2,
+                  "odds_display": "+320",
+                  "label": "Chiefs (-19.5)",
+                  "abrev": "Chiefs (-19.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-18.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951438,
+                  "odds": 1.23,
+                  "odds_display": "-435",
+                  "label": "Texans (+18.5)",
+                  "abrev": "Texans (+18.5)"
+                },
+                {
+                  "id": 5233951439,
+                  "odds": 3.95,
+                  "odds_display": "+295",
+                  "label": "Chiefs (-18.5)",
+                  "abrev": "Chiefs (-18.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-17.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232725446,
+                  "odds": 1.26,
+                  "odds_display": "-385",
+                  "label": "Texans (+17.5)",
+                  "abrev": "Texans (+17.5)"
+                },
+                {
+                  "id": 5232725447,
+                  "odds": 3.6,
+                  "odds_display": "+260",
+                  "label": "Chiefs (-17.5)",
+                  "abrev": "Chiefs (-17.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-16.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232725375,
+                  "odds": 1.32,
+                  "odds_display": "-312",
+                  "label": "Texans (+16.5)",
+                  "abrev": "Texans (+16.5)"
+                },
+                {
+                  "id": 5232725376,
+                  "odds": 3.2,
+                  "odds_display": "+220",
+                  "label": "Chiefs (-16.5)",
+                  "abrev": "Chiefs (-16.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-15.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951440,
+                  "odds": 1.36,
+                  "odds_display": "-278",
+                  "label": "Texans (+15.5)",
+                  "abrev": "Texans (+15.5)"
+                },
+                {
+                  "id": 5233951441,
+                  "odds": 3,
+                  "odds_display": "+200",
+                  "label": "Chiefs (-15.5)",
+                  "abrev": "Chiefs (-15.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-14.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951510,
+                  "odds": 1.38,
+                  "odds_display": "-263",
+                  "label": "Texans (+14.5)",
+                  "abrev": "Texans (+14.5)"
+                },
+                {
+                  "id": 5233951511,
+                  "odds": 2.95,
+                  "odds_display": "+195",
+                  "label": "Chiefs (-14.5)",
+                  "abrev": "Chiefs (-14.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-13.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232725448,
+                  "odds": 1.47,
+                  "odds_display": "-213",
+                  "label": "Texans (+13.5)",
+                  "abrev": "Texans (+13.5)"
+                },
+                {
+                  "id": 5232725449,
+                  "odds": 2.57,
+                  "odds_display": "+157",
+                  "label": "Chiefs (-13.5)",
+                  "abrev": "Chiefs (-13.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-12.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951506,
+                  "odds": 1.53,
+                  "odds_display": "-189",
+                  "label": "Texans (+12.5)",
+                  "abrev": "Texans (+12.5)"
+                },
+                {
+                  "id": 5233951507,
+                  "odds": 2.37,
+                  "odds_display": "+137",
+                  "label": "Chiefs (-12.5)",
+                  "abrev": "Chiefs (-12.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-11.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233501419,
+                  "odds": 1.58,
+                  "odds_display": "-172",
+                  "label": "Texans (+11.5)",
+                  "abrev": "Texans (+11.5)"
+                },
+                {
+                  "id": 5233501418,
+                  "odds": 2.3,
+                  "odds_display": "+130",
+                  "label": "Chiefs (-11.5)",
+                  "abrev": "Chiefs (-11.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-10.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951512,
+                  "odds": 1.65,
+                  "odds_display": "-154",
+                  "label": "Texans (+10.5)",
+                  "abrev": "Texans (+10.5)"
+                },
+                {
+                  "id": 5233951513,
+                  "odds": 2.17,
+                  "odds_display": "+117",
+                  "label": "Chiefs (-10.5)",
+                  "abrev": "Chiefs (-10.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-9.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233398150,
+                  "odds": 1.78,
+                  "odds_display": "-128",
+                  "label": "Texans (+9.5)",
+                  "abrev": "Texans (+9.5)"
+                },
+                {
+                  "id": 5233398151,
+                  "odds": 1.97,
+                  "odds_display": "-103",
+                  "label": "Chiefs (-9.5)",
+                  "abrev": "Chiefs (-9.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-8.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233988710,
+                  "odds": 1.85,
+                  "odds_display": "-118",
+                  "label": "Texans (+8.5)",
+                  "abrev": "Texans (+8.5)"
+                },
+                {
+                  "id": 5233988709,
+                  "odds": 1.91,
+                  "odds_display": "-110",
+                  "label": "Chiefs (-8.5)",
+                  "abrev": "Chiefs (-8.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-7.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951505,
+                  "odds": 1.95,
+                  "odds_display": "-105",
+                  "label": "Texans (+7.5)",
+                  "abrev": "Texans (+7.5)"
+                },
+                {
+                  "id": 5233951504,
+                  "odds": 1.78,
+                  "odds_display": "-128",
+                  "label": "Chiefs (-7.5)",
+                  "abrev": "Chiefs (-7.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-6.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232725397,
+                  "odds": 2.25,
+                  "odds_display": "+125",
+                  "label": "Texans (+6.5)",
+                  "abrev": "Texans (+6.5)"
+                },
+                {
+                  "id": 5232725398,
+                  "odds": 1.61,
+                  "odds_display": "-164",
+                  "label": "Chiefs (-6.5)",
+                  "abrev": "Chiefs (-6.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-5.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5231815652,
+                  "odds": 2.45,
+                  "odds_display": "+145",
+                  "label": "Texans (+5.5)",
+                  "abrev": "Texans (+5.5)"
+                },
+                {
+                  "id": 5231815651,
+                  "odds": 1.51,
+                  "odds_display": "-196",
+                  "label": "Chiefs (-5.5)",
+                  "abrev": "Chiefs (-5.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-4.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5231815705,
+                  "odds": 2.57,
+                  "odds_display": "+157",
+                  "label": "Texans (+4.5)",
+                  "abrev": "Texans (+4.5)"
+                },
+                {
+                  "id": 5231815706,
+                  "odds": 1.47,
+                  "odds_display": "-213",
+                  "label": "Chiefs (-4.5)",
+                  "abrev": "Chiefs (-4.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-3.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233626511,
+                  "odds": 2.82,
+                  "odds_display": "+182",
+                  "label": "Texans (+3.5)",
+                  "abrev": "Texans (+3.5)"
+                },
+                {
+                  "id": 5233626510,
+                  "odds": 1.4,
+                  "odds_display": "-250",
+                  "label": "Chiefs (-3.5)",
+                  "abrev": "Chiefs (-3.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-2.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233626505,
+                  "odds": 3.65,
+                  "odds_display": "+265",
+                  "label": "Texans (+2.5)",
+                  "abrev": "Texans (+2.5)"
+                },
+                {
+                  "id": 5233626504,
+                  "odds": 1.26,
+                  "odds_display": "-385",
+                  "label": "Chiefs (-2.5)",
+                  "abrev": "Chiefs (-2.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-1.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233626445,
+                  "odds": 3.95,
+                  "odds_display": "+295",
+                  "label": "Texans (+1.5)",
+                  "abrev": "Texans (+1.5)"
+                },
+                {
+                  "id": 5233626446,
+                  "odds": 1.23,
+                  "odds_display": "-435",
+                  "label": "Chiefs (-1.5)",
+                  "abrev": "Chiefs (-1.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (-0.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232725478,
+                  "odds": 4.1,
+                  "odds_display": "+310",
+                  "label": "Texans (+0.5)",
+                  "abrev": "Texans (+0.5)"
+                },
+                {
+                  "id": 5232725477,
+                  "odds": 1.22,
+                  "odds_display": "-455",
+                  "label": "Chiefs (-0.5)",
+                  "abrev": "Chiefs (-0.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (1.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233626444,
+                  "odds": 4.7,
+                  "odds_display": "+370",
+                  "label": "Texans (-1.5)",
+                  "abrev": "Texans (-1.5)"
+                },
+                {
+                  "id": 5233626443,
+                  "odds": 1.18,
+                  "odds_display": "-556",
+                  "label": "Chiefs (+1.5)",
+                  "abrev": "Chiefs (+1.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (2.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233626513,
+                  "odds": 4.8,
+                  "odds_display": "+380",
+                  "label": "Texans (-2.5)",
+                  "abrev": "Texans (-2.5)"
+                },
+                {
+                  "id": 5233626512,
+                  "odds": 1.17,
+                  "odds_display": "-588",
+                  "label": "Chiefs (+2.5)",
+                  "abrev": "Chiefs (+2.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (3.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951501,
+                  "odds": 5.9,
+                  "odds_display": "+490",
+                  "label": "Texans (-3.5)",
+                  "abrev": "Texans (-3.5)"
+                },
+                {
+                  "id": 5233951500,
+                  "odds": 1.11,
+                  "odds_display": "-909",
+                  "label": "Chiefs (+3.5)",
+                  "abrev": "Chiefs (+3.5)"
+                }
+              ]
+            },
+            {
+              "label": "Spread (4.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233626448,
+                  "odds": 7.25,
+                  "odds_display": "+625",
+                  "label": "Texans (-4.5)",
+                  "abrev": "Texans (-4.5)"
+                },
+                {
+                  "id": 5233626447,
+                  "odds": 1.08,
+                  "odds_display": "-1250",
+                  "label": "Chiefs (+4.5)",
+                  "abrev": "Chiefs (+4.5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 300,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Total",
+          "see_more": 3,
+          "filters": {
+            "710": 30,
+            "1000": 300
+          },
+          "bets": [
+            {
+              "label": "Over/Under 28.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396676,
+                  "odds": 1.1,
+                  "odds_display": "-1000",
+                  "label": "Over 28.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396675,
+                  "odds": 7,
+                  "odds_display": "+600",
+                  "label": "Under 28.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 29.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951334,
+                  "odds": 1.13,
+                  "odds_display": "-769",
+                  "label": "Over 29.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233951333,
+                  "odds": 5.9,
+                  "odds_display": "+490",
+                  "label": "Under 29.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 30.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396992,
+                  "odds": 1.17,
+                  "odds_display": "-588",
+                  "label": "Over 30.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396991,
+                  "odds": 4.9,
+                  "odds_display": "+390",
+                  "label": "Under 30.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 31.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396981,
+                  "odds": 1.2,
+                  "odds_display": "-500",
+                  "label": "Over 31.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396982,
+                  "odds": 4.5,
+                  "odds_display": "+350",
+                  "label": "Under 31.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 32.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396988,
+                  "odds": 1.22,
+                  "odds_display": "-455",
+                  "label": "Over 32.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396987,
+                  "odds": 4.2,
+                  "odds_display": "+320",
+                  "label": "Under 32.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 33.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951393,
+                  "odds": 1.27,
+                  "odds_display": "-370",
+                  "label": "Over 33.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233951392,
+                  "odds": 3.7,
+                  "odds_display": "+270",
+                  "label": "Under 33.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 34.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396975,
+                  "odds": 1.31,
+                  "odds_display": "-323",
+                  "label": "Over 34.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396976,
+                  "odds": 3.4,
+                  "odds_display": "+240",
+                  "label": "Under 34.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 35.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233263534,
+                  "odds": 1.35,
+                  "odds_display": "-286",
+                  "label": "Over 35.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233263535,
+                  "odds": 3.2,
+                  "odds_display": "+220",
+                  "label": "Under 35.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 36.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396966,
+                  "odds": 1.41,
+                  "odds_display": "-244",
+                  "label": "Over 36.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396967,
+                  "odds": 2.87,
+                  "odds_display": "+187",
+                  "label": "Under 36.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 37.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396793,
+                  "odds": 1.51,
+                  "odds_display": "-196",
+                  "label": "Over 37.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396794,
+                  "odds": 2.55,
+                  "odds_display": "+155",
+                  "label": "Under 37.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 38.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396812,
+                  "odds": 1.57,
+                  "odds_display": "-175",
+                  "label": "Over 38.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396816,
+                  "odds": 2.4,
+                  "odds_display": "+140",
+                  "label": "Under 38.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 39.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233597145,
+                  "odds": 1.65,
+                  "odds_display": "-154",
+                  "label": "Over 39.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233597144,
+                  "odds": 2.22,
+                  "odds_display": "+122",
+                  "label": "Under 39.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 40.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233597142,
+                  "odds": 1.77,
+                  "odds_display": "-130",
+                  "label": "Over 40.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233597143,
+                  "odds": 2.05,
+                  "odds_display": "+105",
+                  "label": "Under 40.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 41.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233526408,
+                  "odds": 1.88,
+                  "odds_display": "-114",
+                  "label": "Over 41.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233526409,
+                  "odds": 1.91,
+                  "odds_display": "-110",
+                  "label": "Under 41.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 42.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233597141,
+                  "odds": 1.99,
+                  "odds_display": "-101",
+                  "label": "Over 42.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233597140,
+                  "odds": 1.81,
+                  "odds_display": "-123",
+                  "label": "Under 42.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 43.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396716,
+                  "odds": 2.15,
+                  "odds_display": "+115",
+                  "label": "Over 43.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396717,
+                  "odds": 1.68,
+                  "odds_display": "-147",
+                  "label": "Under 43.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 44.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396700,
+                  "odds": 2.32,
+                  "odds_display": "+132",
+                  "label": "Over 44.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396701,
+                  "odds": 1.58,
+                  "odds_display": "-172",
+                  "label": "Under 44.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 45.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232725360,
+                  "odds": 2.5,
+                  "odds_display": "+150",
+                  "label": "Over 45.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232725361,
+                  "odds": 1.53,
+                  "odds_display": "-189",
+                  "label": "Under 45.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 46.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396690,
+                  "odds": 2.62,
+                  "odds_display": "+162",
+                  "label": "Over 46.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396691,
+                  "odds": 1.47,
+                  "odds_display": "-213",
+                  "label": "Under 46.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 47.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233461982,
+                  "odds": 2.9,
+                  "odds_display": "+190",
+                  "label": "Over 47.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233461981,
+                  "odds": 1.41,
+                  "odds_display": "-244",
+                  "label": "Under 47.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 48.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396682,
+                  "odds": 3.1,
+                  "odds_display": "+210",
+                  "label": "Over 48.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396681,
+                  "odds": 1.35,
+                  "odds_display": "-286",
+                  "label": "Under 48.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 49.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396680,
+                  "odds": 3.35,
+                  "odds_display": "+235",
+                  "label": "Over 49.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396679,
+                  "odds": 1.33,
+                  "odds_display": "-303",
+                  "label": "Under 49.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 50.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396995,
+                  "odds": 3.65,
+                  "odds_display": "+265",
+                  "label": "Over 50.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396996,
+                  "odds": 1.27,
+                  "odds_display": "-370",
+                  "label": "Under 50.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 51.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951437,
+                  "odds": 4,
+                  "odds_display": "+300",
+                  "label": "Over 51.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233951436,
+                  "odds": 1.24,
+                  "odds_display": "-417",
+                  "label": "Under 51.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 52.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396990,
+                  "odds": 4.3,
+                  "odds_display": "+330",
+                  "label": "Over 52.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396989,
+                  "odds": 1.21,
+                  "odds_display": "-476",
+                  "label": "Under 52.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 53.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5231573910,
+                  "odds": 4.7,
+                  "odds_display": "+370",
+                  "label": "Over 53.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5231573909,
+                  "odds": 1.19,
+                  "odds_display": "-526",
+                  "label": "Under 53.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Over/Under 54.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232396985,
+                  "odds": 5.2,
+                  "odds_display": "+420",
+                  "label": "Over 54.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232396986,
+                  "odds": 1.16,
+                  "odds_display": "-625",
+                  "label": "Under 54.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 315,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Chiefs - Total",
+          "see_more": 3,
+          "filters": {
+            "1000": 315,
+            "3911": 315
+          },
+          "bets": [
+            {
+              "label": "Chiefs - Over/Under 25.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233951316,
+                  "odds": 1.85,
+                  "odds_display": "-118",
+                  "label": "Over 25.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233951315,
+                  "odds": 1.81,
+                  "odds_display": "-123",
+                  "label": "Under 25.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 320,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Texans - Total",
+          "see_more": 3,
+          "filters": {
+            "1000": 320,
+            "3911": 320
+          },
+          "bets": [
+            {
+              "label": "Texans - Over/Under 16.5 points (inc overtime)",
+              "selections": [
+                {
+                  "id": 5233988357,
+                  "odds": 1.93,
+                  "odds_display": "-108",
+                  "label": "Over 16.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233988356,
+                  "odds": 1.75,
+                  "odds_display": "-133",
+                  "label": "Under 16.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 350,
+          "selection_order_type": "next_goal",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 350,
+            "3911": 350
+          },
+          "bets": [
+            {
+              "label": "First team to score",
+              "selections": [
+                {
+                  "id": 5232725292,
+                  "odds": 1.43,
+                  "odds_display": "-233",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                },
+                {
+                  "id": 5232725291,
+                  "odds": 2.5,
+                  "odds_display": "+150",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 355,
+          "selection_order_type": "yes_no",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 355
+          },
+          "bets": [
+            {
+              "label": "Team scoring first to win the match",
+              "selections": [
+                {
+                  "id": 5231822721,
+                  "odds": 1.47,
+                  "odds_display": "-213",
+                  "label": "Yes",
+                  "abrev": "Yes"
+                },
+                {
+                  "id": 5231822720,
+                  "odds": 2.47,
+                  "odds_display": "+147",
+                  "label": "No",
+                  "abrev": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 361,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Touchdowns Over/Under",
+          "see_more": 3,
+          "filters": {
+            "1000": 361,
+            "3911": 1500
+          },
+          "bets": [
+            {
+              "label": "Over/Under 4.5 touchdowns",
+              "selections": [
+                {
+                  "id": 5233988413,
+                  "odds": 1.93,
+                  "odds_display": "-108",
+                  "label": "Over 4.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233988412,
+                  "odds": 1.83,
+                  "odds_display": "-120",
+                  "label": "Under 4.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 363,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Chiefs - Touchdowns Over/Under",
+          "see_more": 3,
+          "filters": {
+            "1000": 363
+          },
+          "bets": [
+            {
+              "label": "Chiefs -  Over/Under 2.5 touchdowns",
+              "selections": [
+                {
+                  "id": 5231811218,
+                  "odds": 1.61,
+                  "odds_display": "-164",
+                  "label": "Over 2.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5231811217,
+                  "odds": 2.27,
+                  "odds_display": "+127",
+                  "label": "Under 2.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 364,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Texans - Touchdowns Over/Under",
+          "see_more": 3,
+          "filters": {
+            "1000": 364
+          },
+          "bets": [
+            {
+              "label": "Texans -  Over/Under 1.5 touchdowns",
+              "selections": [
+                {
+                  "id": 5232875670,
+                  "odds": 1.83,
+                  "odds_display": "-120",
+                  "label": "Over 1.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5232875669,
+                  "odds": 1.93,
+                  "odds_display": "-108",
+                  "label": "Under 1.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 369,
+          "selection_order_type": "winning_margin_3way_tieonly",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 3,
+          "filters": {
+            "1000": 369
+          },
+          "bets": [
+            {
+              "label": "Winning margin (OT included)",
+              "selections": [
+                {
+                  "id": 5233627396,
+                  "odds": 12.5,
+                  "odds_display": "+1150",
+                  "label": "Texans win by 7-12",
+                  "abrev": "Texans win by 7-12"
+                },
+                {
+                  "id": 5233627397,
+                  "odds": 6.3,
+                  "odds_display": "+530",
+                  "label": "Chiefs win by 19-24",
+                  "abrev": "Chiefs win by 19-24"
+                },
+                {
+                  "id": 5233627398,
+                  "odds": 3.35,
+                  "odds_display": "+235",
+                  "label": "Chiefs win by 1-6",
+                  "abrev": "Chiefs win by 1-6"
+                },
+                {
+                  "id": 5233627399,
+                  "odds": 50,
+                  "odds_display": "+4900",
+                  "label": "Texans win by 19-24",
+                  "abrev": "Texans win by 19-24"
+                },
+                {
+                  "id": 5233627400,
+                  "odds": 5.9,
+                  "odds_display": "+490",
+                  "label": "Texans win by 1-6",
+                  "abrev": "Texans win by 1-6"
+                },
+                {
+                  "id": 5233627401,
+                  "odds": 35,
+                  "odds_display": "+3400",
+                  "label": "Chiefs win by 37-42",
+                  "abrev": "Chiefs win by 37-42"
+                },
+                {
+                  "id": 5233627402,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Texans win by 37-42",
+                  "abrev": "Texans win by 37-42"
+                },
+                {
+                  "id": 5233627403,
+                  "odds": 3.65,
+                  "odds_display": "+265",
+                  "label": "Chiefs win by 7-12",
+                  "abrev": "Chiefs win by 7-12"
+                },
+                {
+                  "id": 5233627404,
+                  "odds": 60,
+                  "odds_display": "+5900",
+                  "label": "Chiefs win by more than 43",
+                  "abrev": "Chiefs win by more than 43"
+                },
+                {
+                  "id": 5233627405,
+                  "odds": 19,
+                  "odds_display": "+1800",
+                  "label": "Chiefs win by 31-36",
+                  "abrev": "Chiefs win by 31-36"
+                },
+                {
+                  "id": 5233627406,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Texans win by 31-36",
+                  "abrev": "Texans win by 31-36"
+                },
+                {
+                  "id": 5233627407,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Texans win by more than 43",
+                  "abrev": "Texans win by more than 43"
+                },
+                {
+                  "id": 5233627408,
+                  "odds": 29,
+                  "odds_display": "+2800",
+                  "label": "Texans win by 13-18",
+                  "abrev": "Texans win by 13-18"
+                },
+                {
+                  "id": 5233627409,
+                  "odds": 4.2,
+                  "odds_display": "+320",
+                  "label": "Chiefs win by 13-18",
+                  "abrev": "Chiefs win by 13-18"
+                },
+                {
+                  "id": 5233627410,
+                  "odds": 11,
+                  "odds_display": "+1000",
+                  "label": "Chiefs win by 25-30",
+                  "abrev": "Chiefs win by 25-30"
+                },
+                {
+                  "id": 5233627411,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Texans win by 25-30",
+                  "abrev": "Texans win by 25-30"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 373,
+          "selection_order_type": "moneyline",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "740": 13,
+            "1000": 373
+          },
+          "bets": [
+            {
+              "label": "Quarter 1 - Result (draw no bet)",
+              "selections": [
+                {
+                  "id": 5233678886,
+                  "odds": 2.7,
+                  "odds_display": "+170",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5233678887,
+                  "odds": 1.38,
+                  "odds_display": "-263",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 376,
+          "selection_order_type": "handicap_2ways",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Quarter 1 - Spread",
+          "see_more": 3,
+          "filters": {
+            "740": 21,
+            "1000": 376
+          },
+          "bets": [
+            {
+              "label": "Quarter 1 - Spread (-2.5) - Result",
+              "selections": [
+                {
+                  "id": 5233951290,
+                  "odds": 1.9,
+                  "odds_display": "-111",
+                  "label": "Texans (+2.5)",
+                  "abrev": "Texans (+2.5)"
+                },
+                {
+                  "id": 5233951291,
+                  "odds": 1.81,
+                  "odds_display": "-123",
+                  "label": "Chiefs (-2.5)",
+                  "abrev": "Chiefs (-2.5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 381,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Quarter 1 - Points Over/Under",
+          "see_more": 3,
+          "filters": {
+            "740": 31,
+            "1000": 381
+          },
+          "bets": [
+            {
+              "label": "Quarter 1 - Over/Under 7.5 points",
+              "selections": [
+                {
+                  "id": 5231686180,
+                  "odds": 1.93,
+                  "odds_display": "-108",
+                  "label": "Over 7.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5231686181,
+                  "odds": 1.73,
+                  "odds_display": "-137",
+                  "label": "Under 7.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 382,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Quarter 1 - Chiefs - Points Over/Under",
+          "see_more": 3,
+          "filters": {
+            "740": 35,
+            "1000": 382
+          },
+          "bets": [
+            {
+              "label": "Quarter 1 - Chiefs - Over/Under 6.5 points",
+              "selections": [
+                {
+                  "id": 5233398137,
+                  "odds": 1.85,
+                  "odds_display": "-118",
+                  "label": "Over 6.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233398136,
+                  "odds": 1.83,
+                  "odds_display": "-120",
+                  "label": "Under 6.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 382,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Quarter 1 - Texans - Points Over/Under",
+          "see_more": 3,
+          "filters": {
+            "740": 36,
+            "1000": 382
+          },
+          "bets": [
+            {
+              "label": "Quarter 1 - Texans - Over/Under 0.5 points",
+              "selections": [
+                {
+                  "id": 5233398101,
+                  "odds": 1.81,
+                  "odds_display": "-123",
+                  "label": "Over 0.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233398100,
+                  "odds": 1.88,
+                  "odds_display": "-114",
+                  "label": "Under 0.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 390,
+          "selection_order_type": "race_to",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 3,
+          "group": "Quarter 1 - Points race",
+          "filters": {
+            "740": 40,
+            "1000": 390
+          },
+          "bets": [
+            {
+              "label": "Quarter 1 - Race to 6 points",
+              "selections": [
+                {
+                  "id": 5230242750,
+                  "odds": 4.5,
+                  "odds_display": "+350",
+                  "label": "Texans - First to 6",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5230242749,
+                  "odds": 2.02,
+                  "odds_display": "+102",
+                  "label": "Chiefs - First to 6",
+                  "abrev": "Chiefs"
+                },
+                {
+                  "id": 5230242751,
+                  "odds": 2.65,
+                  "odds_display": "+165",
+                  "label": "Neither team to 6",
+                  "abrev": "No team"
+                }
+              ]
+            },
+            {
+              "label": "Quarter 1 - Race to 9 points",
+              "selections": [
+                {
+                  "id": 5229824038,
+                  "odds": 11,
+                  "odds_display": "+1000",
+                  "label": "Texans - First to 9",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5229824037,
+                  "odds": 3.85,
+                  "odds_display": "+285",
+                  "label": "Chiefs - First to 9",
+                  "abrev": "Chiefs"
+                },
+                {
+                  "id": 5229824039,
+                  "odds": 1.35,
+                  "odds_display": "-286",
+                  "label": "Neither team to 9",
+                  "abrev": "No team"
+                }
+              ]
+            },
+            {
+              "label": "Quarter 1 - Race to 12 points",
+              "selections": [
+                {
+                  "id": 5230242745,
+                  "odds": 23,
+                  "odds_display": "+2200",
+                  "label": "Texans - First to 12",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5230242746,
+                  "odds": 7,
+                  "odds_display": "+600",
+                  "label": "Chiefs - First to 12",
+                  "abrev": "Chiefs"
+                },
+                {
+                  "id": 5230242744,
+                  "odds": 1.1,
+                  "odds_display": "-1000",
+                  "label": "Neither team to 12",
+                  "abrev": "No team"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 391,
+          "selection_order_type": "yes_no",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "740": 45,
+            "1000": 391
+          },
+          "bets": [
+            {
+              "label": "Quarter 1 - Both teams to score",
+              "selections": [
+                {
+                  "id": 5232812214,
+                  "odds": 2.62,
+                  "odds_display": "+162",
+                  "label": "Yes",
+                  "abrev": "Yes"
+                },
+                {
+                  "id": 5232812215,
+                  "odds": 1.42,
+                  "odds_display": "-238",
+                  "label": "No",
+                  "abrev": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 395,
+          "selection_order_type": "winning_margin_3way_tieonly",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 3,
+          "filters": {
+            "740": 50,
+            "1000": 395
+          },
+          "bets": [
+            {
+              "label": "Quarter 1 - Winning margin",
+              "selections": [
+                {
+                  "id": 5230243523,
+                  "odds": 4.6,
+                  "odds_display": "+360",
+                  "label": "Texans win by 1-6",
+                  "abrev": "Texans win by 1-6"
+                },
+                {
+                  "id": 5230243524,
+                  "odds": 3.05,
+                  "odds_display": "+205",
+                  "label": "Chiefs win by 1-6",
+                  "abrev": "Chiefs win by 1-6"
+                },
+                {
+                  "id": 5230243525,
+                  "odds": 2.6,
+                  "odds_display": "+160",
+                  "label": "Chiefs win by 7 or more",
+                  "abrev": "Chiefs win by 7 or more"
+                },
+                {
+                  "id": 5230243526,
+                  "odds": 3.2,
+                  "odds_display": "+220",
+                  "label": "Tie",
+                  "abrev": "Tie"
+                },
+                {
+                  "id": 5230243527,
+                  "odds": 8,
+                  "odds_display": "+700",
+                  "label": "Texans win by 7 or more",
+                  "abrev": "Texans win by 7 or more"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 452,
+          "selection_order_type": "1x2",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 3,
+          "filters": {
+            "1000": 452,
+            "3911": 452
+          },
+          "bets": [
+            {
+              "label": "Quarter 2 - Result",
+              "selections": [
+                {
+                  "id": 5233951286,
+                  "odds": 3,
+                  "odds_display": "+200",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5233951285,
+                  "odds": 7,
+                  "odds_display": "+600",
+                  "label": "Tie",
+                  "abrev": "Tie"
+                },
+                {
+                  "id": 5233951287,
+                  "odds": 1.63,
+                  "odds_display": "-159",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 455,
+          "selection_order_type": "1x2",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 3,
+          "filters": {
+            "1000": 455,
+            "3911": 456
+          },
+          "bets": [
+            {
+              "label": "Quarter 3 - Result",
+              "selections": [
+                {
+                  "id": 5233951310,
+                  "odds": 3.1,
+                  "odds_display": "+210",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5233951309,
+                  "odds": 4.8,
+                  "odds_display": "+380",
+                  "label": "Tie",
+                  "abrev": "Tie"
+                },
+                {
+                  "id": 5233951308,
+                  "odds": 1.77,
+                  "odds_display": "-130",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 461,
+          "selection_order_type": "1x2",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 3,
+          "filters": {
+            "1000": 461
+          },
+          "bets": [
+            {
+              "label": "Quarter 4 - Result",
+              "selections": [
+                {
+                  "id": 5233951297,
+                  "odds": 3.05,
+                  "odds_display": "+205",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5233951296,
+                  "odds": 6.4,
+                  "odds_display": "+540",
+                  "label": "Tie",
+                  "abrev": "Tie"
+                },
+                {
+                  "id": 5233951298,
+                  "odds": 1.68,
+                  "odds_display": "-147",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 465,
+          "selection_order_type": "moneyline",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 465,
+            "3911": 453
+          },
+          "bets": [
+            {
+              "label": "Quarter 2 - Result (draw no bet)",
+              "selections": [
+                {
+                  "id": 5233678939,
+                  "odds": 2.72,
+                  "odds_display": "+172",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5233678938,
+                  "odds": 1.38,
+                  "odds_display": "-263",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 466,
+          "selection_order_type": "moneyline",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 466,
+            "3911": 457
+          },
+          "bets": [
+            {
+              "label": "Quarter 3 - Result (draw no bet)",
+              "selections": [
+                {
+                  "id": 5232822680,
+                  "odds": 2.6,
+                  "odds_display": "+160",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5232822679,
+                  "odds": 1.4,
+                  "odds_display": "-250",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 467,
+          "selection_order_type": "moneyline",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 467
+          },
+          "bets": [
+            {
+              "label": "Quarter 4 - Result (draw no bet)",
+              "selections": [
+                {
+                  "id": 5232824444,
+                  "odds": 2.5,
+                  "odds_display": "+150",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5232824445,
+                  "odds": 1.45,
+                  "odds_display": "-222",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 481,
+          "selection_order_type": "handicap_2ways",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Quarter 2 - Spread",
+          "see_more": 3,
+          "filters": {
+            "1000": 481,
+            "3911": 481
+          },
+          "bets": [
+            {
+              "label": "Quarter 2 - Spread (-3.5) - Result",
+              "selections": [
+                {
+                  "id": 5230255171,
+                  "odds": 1.73,
+                  "odds_display": "-137",
+                  "label": "Texans (+3.5)",
+                  "abrev": "Texans (+3.5)"
+                },
+                {
+                  "id": 5230255170,
+                  "odds": 1.98,
+                  "odds_display": "-102",
+                  "label": "Chiefs (-3.5)",
+                  "abrev": "Chiefs (-3.5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 500,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Quarter 2 - Points Over/Under",
+          "see_more": 3,
+          "filters": {
+            "1000": 500,
+            "3911": 500
+          },
+          "bets": [
+            {
+              "label": "Quarter 2 - Over/Under 13.5 points",
+              "selections": [
+                {
+                  "id": 5233959617,
+                  "odds": 2.02,
+                  "odds_display": "+102",
+                  "label": "Over 13.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233959618,
+                  "odds": 1.68,
+                  "odds_display": "-147",
+                  "label": "Under 13.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 560,
+          "selection_order_type": "yes_no",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 560
+          },
+          "bets": [
+            {
+              "label": "Quarter 2 - Both teams to score",
+              "selections": [
+                {
+                  "id": 5232821754,
+                  "odds": 1.47,
+                  "odds_display": "-213",
+                  "label": "Yes",
+                  "abrev": "Yes"
+                },
+                {
+                  "id": 5232821755,
+                  "odds": 2.45,
+                  "odds_display": "+145",
+                  "label": "No",
+                  "abrev": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 561,
+          "selection_order_type": "yes_no",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 561
+          },
+          "bets": [
+            {
+              "label": "Quarter 3 - Both teams to score",
+              "selections": [
+                {
+                  "id": 5232823342,
+                  "odds": 2.3,
+                  "odds_display": "+130",
+                  "label": "Yes",
+                  "abrev": "Yes"
+                },
+                {
+                  "id": 5232823345,
+                  "odds": 1.53,
+                  "odds_display": "-189",
+                  "label": "No",
+                  "abrev": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 562,
+          "selection_order_type": "yes_no",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 562
+          },
+          "bets": [
+            {
+              "label": "Quarter 4 - Both teams to score",
+              "selections": [
+                {
+                  "id": 5233951294,
+                  "odds": 1.91,
+                  "odds_display": "-110",
+                  "label": "Yes",
+                  "abrev": "Yes"
+                },
+                {
+                  "id": 5233951295,
+                  "odds": 1.78,
+                  "odds_display": "-128",
+                  "label": "No",
+                  "abrev": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 600,
+          "selection_order_type": "1x2",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 3,
+          "see_more": 3,
+          "filters": {
+            "730": 10,
+            "1000": 600
+          },
+          "bets": [
+            {
+              "label": "1st half - Result",
+              "selections": [
+                {
+                  "id": 5233258595,
+                  "odds": 3.55,
+                  "odds_display": "+255",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5233258593,
+                  "odds": 9.75,
+                  "odds_display": "+875",
+                  "label": "Tie",
+                  "abrev": "Tie"
+                },
+                {
+                  "id": 5233258594,
+                  "odds": 1.39,
+                  "odds_display": "-256",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 620,
+          "selection_order_type": "moneyline",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "730": 15,
+            "1000": 620
+          },
+          "bets": [
+            {
+              "label": "1st half - Draw no bet",
+              "selections": [
+                {
+                  "id": 5233951314,
+                  "odds": 3.25,
+                  "odds_display": "+225",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5233951313,
+                  "odds": 1.27,
+                  "odds_display": "-370",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 630,
+          "selection_order_type": "handicap_2ways",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "1st half - Spread",
+          "see_more": 3,
+          "filters": {
+            "730": 20,
+            "1000": 630
+          },
+          "bets": [
+            {
+              "label": "1st half - Spread (-5.5) - Result",
+              "selections": [
+                {
+                  "id": 5233988411,
+                  "odds": 1.83,
+                  "odds_display": "-120",
+                  "label": "Texans (+5.5)",
+                  "abrev": "Texans (+5.5)"
+                },
+                {
+                  "id": 5233988410,
+                  "odds": 1.83,
+                  "odds_display": "-120",
+                  "label": "Chiefs (-5.5)",
+                  "abrev": "Chiefs (-5.5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 650,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "1st half - Points Over/Under",
+          "see_more": 3,
+          "filters": {
+            "730": 25,
+            "1000": 650
+          },
+          "bets": [
+            {
+              "label": "1st half - Over/Under 20.5 points",
+              "selections": [
+                {
+                  "id": 5233398135,
+                  "odds": 1.81,
+                  "odds_display": "-123",
+                  "label": "Over 20.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233398134,
+                  "odds": 1.88,
+                  "odds_display": "-114",
+                  "label": "Under 20.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 677,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "1st half - Touchdowns Over/Under",
+          "see_more": 3,
+          "filters": {
+            "1000": 677
+          },
+          "bets": [
+            {
+              "label": "1st half - Over/Under 2.5 touchdown scored?",
+              "selections": [
+                {
+                  "id": 5231828973,
+                  "odds": 2.35,
+                  "odds_display": "+135",
+                  "label": "Over 2.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5231828972,
+                  "odds": 1.51,
+                  "odds_display": "-196",
+                  "label": "Under 2.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 678,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "1st half - Field Goals Over/Under",
+          "see_more": 3,
+          "filters": {
+            "1000": 678
+          },
+          "bets": [
+            {
+              "label": "1st half - Over/Under 1.5 field goals scored ?",
+              "selections": [
+                {
+                  "id": 5233259208,
+                  "odds": 1.48,
+                  "odds_display": "-208",
+                  "label": "Over 1.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233259207,
+                  "odds": 2.42,
+                  "odds_display": "+142",
+                  "label": "Under 1.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 680,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "1st half - Chiefs - Touchdowns Over/Under",
+          "see_more": 3,
+          "filters": {
+            "1000": 680
+          },
+          "bets": [
+            {
+              "label": "1st half - Chiefs -  Over/Under 1.5 touchdowns",
+              "selections": [
+                {
+                  "id": 5233951318,
+                  "odds": 2.05,
+                  "odds_display": "+105",
+                  "label": "Over 1.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233951317,
+                  "odds": 1.67,
+                  "odds_display": "-149",
+                  "label": "Under 1.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 681,
+          "selection_order_type": "over_under",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "1st half - Texans - Touchdowns Over/Under",
+          "see_more": 3,
+          "filters": {
+            "1000": 681
+          },
+          "bets": [
+            {
+              "label": "1st half - Texans -  Over/Under 0.5 touchdowns",
+              "selections": [
+                {
+                  "id": 5231811219,
+                  "odds": 1.58,
+                  "odds_display": "-172",
+                  "label": "Over 0.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5231811220,
+                  "odds": 2.17,
+                  "odds_display": "+117",
+                  "label": "Under 0.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 700,
+          "selection_order_type": "1x2",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 3,
+          "filters": {
+            "1000": 700,
+            "3911": 700
+          },
+          "bets": [
+            {
+              "label": "2nd half - Result",
+              "selections": [
+                {
+                  "id": 5232853160,
+                  "odds": 3.1,
+                  "odds_display": "+210",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5232853159,
+                  "odds": 12,
+                  "odds_display": "+1100",
+                  "label": "Tie",
+                  "abrev": "Tie"
+                },
+                {
+                  "id": 5232853161,
+                  "odds": 1.43,
+                  "odds_display": "-233",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 702,
+          "selection_order_type": "moneyline",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 702
+          },
+          "bets": [
+            {
+              "label": "2nd half - Draw no bet (inc. OT)",
+              "selections": [
+                {
+                  "id": 5232851313,
+                  "odds": 3,
+                  "odds_display": "+200",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                },
+                {
+                  "id": 5232851312,
+                  "odds": 1.34,
+                  "odds_display": "-294",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 721,
+          "selection_order_type": "handicap_2ways",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "2nd half - Spread (inc overtime)",
+          "see_more": 3,
+          "filters": {
+            "1000": 721,
+            "3911": 721
+          },
+          "bets": [
+            {
+              "label": "2nd half - Spread (-3.5) - Result (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232725239,
+                  "odds": 1.93,
+                  "odds_display": "-108",
+                  "label": "Texans (+3.5)",
+                  "abrev": "Texans (+3.5)"
+                },
+                {
+                  "id": 5232725238,
+                  "odds": 1.75,
+                  "odds_display": "-133",
+                  "label": "Chiefs (-3.5)",
+                  "abrev": "Chiefs (-3.5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 801,
+          "selection_order_type": "yes_no",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 801,
+            "3911": 801
+          },
+          "bets": [
+            {
+              "label": "Will there be extra-time",
+              "selections": [
+                {
+                  "id": 5233951312,
+                  "odds": 12.5,
+                  "odds_display": "+1150",
+                  "label": "Yes",
+                  "abrev": "Yes"
+                },
+                {
+                  "id": 5233951311,
+                  "odds": 1,
+                  "odds_display": "-",
+                  "label": "No",
+                  "abrev": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 805,
+          "selection_order_type": "yes_no",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 805,
+            "3911": 805
+          },
+          "bets": [
+            {
+              "label": "Chiefs to win both halves",
+              "selections": [
+                {
+                  "id": 5233951322,
+                  "odds": 2.25,
+                  "odds_display": "+125",
+                  "label": "Yes",
+                  "abrev": "Yes"
+                },
+                {
+                  "id": 5233951323,
+                  "odds": 1.53,
+                  "odds_display": "-189",
+                  "label": "No",
+                  "abrev": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 806,
+          "selection_order_type": "yes_no",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 806,
+            "3911": 806
+          },
+          "bets": [
+            {
+              "label": "Texans to win both halves",
+              "selections": [
+                {
+                  "id": 5233951301,
+                  "odds": 11,
+                  "odds_display": "+1000",
+                  "label": "Yes",
+                  "abrev": "Yes"
+                },
+                {
+                  "id": 5233951302,
+                  "odds": 1,
+                  "odds_display": "-",
+                  "label": "No",
+                  "abrev": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 900,
+          "selection_order_type": "next_goal",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 900,
+            "3911": 900
+          },
+          "bets": [
+            {
+              "label": "Last team to score",
+              "selections": [
+                {
+                  "id": 5233951306,
+                  "odds": 1.55,
+                  "odds_display": "-182",
+                  "label": "Chiefs",
+                  "abrev": "Chiefs"
+                },
+                {
+                  "id": 5233951307,
+                  "odds": 2.22,
+                  "odds_display": "+122",
+                  "label": "Texans",
+                  "abrev": "Texans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 1000,
+          "selection_order_type": "odds_asc",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "see_more": 5,
+          "filters": {
+            "720": 10,
+            "1000": 1000
+          },
+          "bets": [
+            {
+              "label": "Anytime touchdown scorer",
+              "selections": [
+                {
+                  "id": 5233988373,
+                  "odds": 2.17,
+                  "odds_display": "+117",
+                  "label": "Joe Mixon",
+                  "abrev": "Joe Mixon"
+                },
+                {
+                  "id": 5233988361,
+                  "odds": 2.42,
+                  "odds_display": "+142",
+                  "label": "Travis Kelce",
+                  "abrev": "Travis Kelce"
+                },
+                {
+                  "id": 5233988374,
+                  "odds": 2.52,
+                  "odds_display": "+152",
+                  "label": "Isiah Pacheco",
+                  "abrev": "Isiah Pacheco"
+                },
+                {
+                  "id": 5233988377,
+                  "odds": 2.7,
+                  "odds_display": "+170",
+                  "label": "Kareem Hunt",
+                  "abrev": "Kareem Hunt"
+                },
+                {
+                  "id": 5233988367,
+                  "odds": 2.82,
+                  "odds_display": "+182",
+                  "label": "Nico Collins",
+                  "abrev": "Nico Collins"
+                },
+                {
+                  "id": 5233988358,
+                  "odds": 3,
+                  "odds_display": "+200",
+                  "label": "Xavier Worthy",
+                  "abrev": "Xavier Worthy"
+                },
+                {
+                  "id": 5233988381,
+                  "odds": 3.65,
+                  "odds_display": "+265",
+                  "label": "Deandre Hopkins",
+                  "abrev": "Deandre Hopkins"
+                },
+                {
+                  "id": 5233988366,
+                  "odds": 3.95,
+                  "odds_display": "+295",
+                  "label": "Marquise Brown",
+                  "abrev": "Marquise Brown"
+                },
+                {
+                  "id": 5233988360,
+                  "odds": 5.6,
+                  "odds_display": "+460",
+                  "label": "Dalton Schultz",
+                  "abrev": "Dalton Schultz"
+                },
+                {
+                  "id": 5233988372,
+                  "odds": 5.8,
+                  "odds_display": "+480",
+                  "label": "Patrick Mahomes",
+                  "abrev": "Patrick Mahomes"
+                },
+                {
+                  "id": 5233988379,
+                  "odds": 5.8,
+                  "odds_display": "+480",
+                  "label": "Kansas City Chiefs D/ST",
+                  "abrev": "Kansas City Chiefs D/ST"
+                },
+                {
+                  "id": 5233988365,
+                  "odds": 6.3,
+                  "odds_display": "+530",
+                  "label": "Noah Gray",
+                  "abrev": "Noah Gray"
+                },
+                {
+                  "id": 5233988369,
+                  "odds": 6.75,
+                  "odds_display": "+575",
+                  "label": "Hou D/St",
+                  "abrev": "Hou D/St"
+                },
+                {
+                  "id": 5233988370,
+                  "odds": 8.75,
+                  "odds_display": "+775",
+                  "label": "Samaje Perine",
+                  "abrev": "Samaje Perine"
+                },
+                {
+                  "id": 5233988380,
+                  "odds": 9.75,
+                  "odds_display": "+875",
+                  "label": "Robert Woods",
+                  "abrev": "Robert Woods"
+                },
+                {
+                  "id": 5233988359,
+                  "odds": 9.75,
+                  "odds_display": "+875",
+                  "label": "Justin Watson",
+                  "abrev": "Justin Watson"
+                },
+                {
+                  "id": 5233988376,
+                  "odds": 10.5,
+                  "odds_display": "+950",
+                  "label": "C.J. Stroud",
+                  "abrev": "C.J. Stroud"
+                },
+                {
+                  "id": 5233988378,
+                  "odds": 10.5,
+                  "odds_display": "+950",
+                  "label": "Xavier Hutchinson",
+                  "abrev": "Xavier Hutchinson"
+                },
+                {
+                  "id": 5233988363,
+                  "odds": 10.5,
+                  "odds_display": "+950",
+                  "label": "Juju Smith-Schuster",
+                  "abrev": "Juju Smith-Schuster"
+                },
+                {
+                  "id": 5233988364,
+                  "odds": 12.5,
+                  "odds_display": "+1150",
+                  "label": "Cade Stover",
+                  "abrev": "Cade Stover"
+                },
+                {
+                  "id": 5233988368,
+                  "odds": 13.5,
+                  "odds_display": "+1250",
+                  "label": "Irv Smith Jr.",
+                  "abrev": "Irv Smith Jr."
+                },
+                {
+                  "id": 5233988362,
+                  "odds": 22,
+                  "odds_display": "+2100",
+                  "label": "Dare Ogunbowale",
+                  "abrev": "Dare Ogunbowale"
+                },
+                {
+                  "id": 5233988375,
+                  "odds": 25,
+                  "odds_display": "+2400",
+                  "label": "Carson Steele",
+                  "abrev": "Carson Steele"
+                },
+                {
+                  "id": 5233988371,
+                  "odds": 28,
+                  "odds_display": "+2700",
+                  "label": "Dameon Pierce",
+                  "abrev": "Dameon Pierce"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 1010,
+          "selection_order_type": "odds_asc",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "see_more": 5,
+          "filters": {
+            "720": 15,
+            "1000": 1010
+          },
+          "bets": [
+            {
+              "label": "First touchdown scorer",
+              "selections": [
+                {
+                  "id": 5233988403,
+                  "odds": 7.25,
+                  "odds_display": "+625",
+                  "label": "Travis Kelce",
+                  "abrev": "Travis Kelce"
+                },
+                {
+                  "id": 5233988398,
+                  "odds": 7.75,
+                  "odds_display": "+675",
+                  "label": "Joe Mixon",
+                  "abrev": "Joe Mixon"
+                },
+                {
+                  "id": 5233988395,
+                  "odds": 7.75,
+                  "odds_display": "+675",
+                  "label": "Isiah Pacheco",
+                  "abrev": "Isiah Pacheco"
+                },
+                {
+                  "id": 5233988390,
+                  "odds": 8.5,
+                  "odds_display": "+750",
+                  "label": "Kareem Hunt",
+                  "abrev": "Kareem Hunt"
+                },
+                {
+                  "id": 5233988384,
+                  "odds": 9.25,
+                  "odds_display": "+825",
+                  "label": "Xavier Worthy",
+                  "abrev": "Xavier Worthy"
+                },
+                {
+                  "id": 5233988387,
+                  "odds": 11,
+                  "odds_display": "+1000",
+                  "label": "Nico Collins",
+                  "abrev": "Nico Collins"
+                },
+                {
+                  "id": 5233988402,
+                  "odds": 13,
+                  "odds_display": "+1200",
+                  "label": "Deandre Hopkins",
+                  "abrev": "Deandre Hopkins"
+                },
+                {
+                  "id": 5233988392,
+                  "odds": 14,
+                  "odds_display": "+1300",
+                  "label": "Marquise Brown",
+                  "abrev": "Marquise Brown"
+                },
+                {
+                  "id": 5233988401,
+                  "odds": 18,
+                  "odds_display": "+1700",
+                  "label": "Patrick Mahomes",
+                  "abrev": "Patrick Mahomes"
+                },
+                {
+                  "id": 5233988382,
+                  "odds": 19,
+                  "odds_display": "+1800",
+                  "label": "Noah Gray",
+                  "abrev": "Noah Gray"
+                },
+                {
+                  "id": 5233988396,
+                  "odds": 19,
+                  "odds_display": "+1800",
+                  "label": "Dalton Schultz",
+                  "abrev": "Dalton Schultz"
+                },
+                {
+                  "id": 5233988409,
+                  "odds": 21,
+                  "odds_display": "+2000",
+                  "label": "Kansas City Chiefs D/ST",
+                  "abrev": "Kansas City Chiefs D/ST"
+                },
+                {
+                  "id": 5233988388,
+                  "odds": 21,
+                  "odds_display": "+2000",
+                  "label": "Houston Texans D/ST",
+                  "abrev": "Houston Texans D/ST"
+                },
+                {
+                  "id": 5233988404,
+                  "odds": 24,
+                  "odds_display": "+2300",
+                  "label": "Juju Smith-Schuster",
+                  "abrev": "Juju Smith-Schuster"
+                },
+                {
+                  "id": 5233988407,
+                  "odds": 26,
+                  "odds_display": "+2500",
+                  "label": "John Metchie III",
+                  "abrev": "John Metchie III"
+                },
+                {
+                  "id": 5233988406,
+                  "odds": 27,
+                  "odds_display": "+2600",
+                  "label": "Samaje Perine",
+                  "abrev": "Samaje Perine"
+                },
+                {
+                  "id": 5233988383,
+                  "odds": 29,
+                  "odds_display": "+2800",
+                  "label": "Justin Watson",
+                  "abrev": "Justin Watson"
+                },
+                {
+                  "id": 5233988386,
+                  "odds": 35,
+                  "odds_display": "+3400",
+                  "label": "C.J. Stroud",
+                  "abrev": "C.J. Stroud"
+                },
+                {
+                  "id": 5233988399,
+                  "odds": 37,
+                  "odds_display": "+3600",
+                  "label": "Xavier Hutchinson",
+                  "abrev": "Xavier Hutchinson"
+                },
+                {
+                  "id": 5233988400,
+                  "odds": 37,
+                  "odds_display": "+3600",
+                  "label": "Cade Stover",
+                  "abrev": "Cade Stover"
+                },
+                {
+                  "id": 5233988389,
+                  "odds": 40,
+                  "odds_display": "+3900",
+                  "label": "Robert Woods",
+                  "abrev": "Robert Woods"
+                },
+                {
+                  "id": 5233988391,
+                  "odds": 70,
+                  "odds_display": "+6900",
+                  "label": "Irv Smith Jr.",
+                  "abrev": "Irv Smith Jr."
+                },
+                {
+                  "id": 5233988397,
+                  "odds": 70,
+                  "odds_display": "+6900",
+                  "label": "Carson Steele",
+                  "abrev": "Carson Steele"
+                },
+                {
+                  "id": 5233988408,
+                  "odds": 70,
+                  "odds_display": "+6900",
+                  "label": "Peyton Hendershot",
+                  "abrev": "Peyton Hendershot"
+                },
+                {
+                  "id": 5233988394,
+                  "odds": 80,
+                  "odds_display": "+7900",
+                  "label": "No Touchdown Scorer",
+                  "abrev": "No Touchdown Scorer"
+                },
+                {
+                  "id": 5233988385,
+                  "odds": 80,
+                  "odds_display": "+7900",
+                  "label": "Dare Ogunbowale",
+                  "abrev": "Dare Ogunbowale"
+                },
+                {
+                  "id": 5233988405,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Dameon Pierce",
+                  "abrev": "Dameon Pierce"
+                },
+                {
+                  "id": 5233988393,
+                  "odds": 100,
+                  "odds_display": "+9900",
+                  "label": "Nikko Remigio",
+                  "abrev": "Nikko Remigio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 1100,
+          "selection_order_type": "odds_asc",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "see_more": 5,
+          "filters": {
+            "720": 50,
+            "1000": 1100
+          },
+          "bets": [
+            {
+              "label": "To score 2 or more touchdowns",
+              "selections": [
+                {
+                  "id": 5233723897,
+                  "odds": 7.5,
+                  "odds_display": "+650",
+                  "label": "Joe Mixon",
+                  "abrev": "Joe Mixon"
+                },
+                {
+                  "id": 5233723895,
+                  "odds": 7.75,
+                  "odds_display": "+675",
+                  "label": "Kareem Hunt",
+                  "abrev": "Kareem Hunt"
+                },
+                {
+                  "id": 5233723902,
+                  "odds": 9.25,
+                  "odds_display": "+825",
+                  "label": "Isiah Pacheco",
+                  "abrev": "Isiah Pacheco"
+                },
+                {
+                  "id": 5233723894,
+                  "odds": 10,
+                  "odds_display": "+900",
+                  "label": "Travis Kelce",
+                  "abrev": "Travis Kelce"
+                },
+                {
+                  "id": 5233723896,
+                  "odds": 11,
+                  "odds_display": "+1000",
+                  "label": "Xavier Worthy",
+                  "abrev": "Xavier Worthy"
+                },
+                {
+                  "id": 5233723892,
+                  "odds": 14,
+                  "odds_display": "+1300",
+                  "label": "Nico Collins",
+                  "abrev": "Nico Collins"
+                },
+                {
+                  "id": 5233723901,
+                  "odds": 18,
+                  "odds_display": "+1700",
+                  "label": "Deandre Hopkins",
+                  "abrev": "Deandre Hopkins"
+                },
+                {
+                  "id": 5233723891,
+                  "odds": 24,
+                  "odds_display": "+2300",
+                  "label": "Marquise Brown",
+                  "abrev": "Marquise Brown"
+                },
+                {
+                  "id": 5233723881,
+                  "odds": 29,
+                  "odds_display": "+2800",
+                  "label": "Patrick Mahomes",
+                  "abrev": "Patrick Mahomes"
+                },
+                {
+                  "id": 5233723884,
+                  "odds": 29,
+                  "odds_display": "+2800",
+                  "label": "Noah Gray",
+                  "abrev": "Noah Gray"
+                },
+                {
+                  "id": 5233723882,
+                  "odds": 37,
+                  "odds_display": "+3600",
+                  "label": "Houston Texans D/ST",
+                  "abrev": "Houston Texans D/ST"
+                },
+                {
+                  "id": 5233723893,
+                  "odds": 37,
+                  "odds_display": "+3600",
+                  "label": "Kansas City Chiefs D/ST",
+                  "abrev": "Kansas City Chiefs D/ST"
+                },
+                {
+                  "id": 5233723898,
+                  "odds": 45,
+                  "odds_display": "+4400",
+                  "label": "Dalton Schultz",
+                  "abrev": "Dalton Schultz"
+                },
+                {
+                  "id": 5233723899,
+                  "odds": 60,
+                  "odds_display": "+5900",
+                  "label": "John Metchie III",
+                  "abrev": "John Metchie III"
+                },
+                {
+                  "id": 5233723903,
+                  "odds": 60,
+                  "odds_display": "+5900",
+                  "label": "Xavier Hutchinson",
+                  "abrev": "Xavier Hutchinson"
+                },
+                {
+                  "id": 5233723889,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Dameon Pierce",
+                  "abrev": "Dameon Pierce"
+                },
+                {
+                  "id": 5233723888,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Cade Stover",
+                  "abrev": "Cade Stover"
+                },
+                {
+                  "id": 5233723887,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Justin Watson",
+                  "abrev": "Justin Watson"
+                },
+                {
+                  "id": 5233723886,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "C.J. Stroud",
+                  "abrev": "C.J. Stroud"
+                },
+                {
+                  "id": 5233723900,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Samaje Perine",
+                  "abrev": "Samaje Perine"
+                },
+                {
+                  "id": 5233723883,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Juju Smith-Schuster",
+                  "abrev": "Juju Smith-Schuster"
+                },
+                {
+                  "id": 5233723885,
+                  "odds": 125,
+                  "odds_display": "+12400",
+                  "label": "Robert Woods",
+                  "abrev": "Robert Woods"
+                },
+                {
+                  "id": 5233723890,
+                  "odds": 175,
+                  "odds_display": "+17400",
+                  "label": "Dare Ogunbowale",
+                  "abrev": "Dare Ogunbowale"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 1200,
+          "selection_order_type": "odds_asc",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "see_more": 5,
+          "filters": {
+            "720": 55,
+            "1000": 1200
+          },
+          "bets": [
+            {
+              "label": "To score 3 or more touchdowns",
+              "selections": [
+                {
+                  "id": 5233723906,
+                  "odds": 37,
+                  "odds_display": "+3600",
+                  "label": "Kareem Hunt",
+                  "abrev": "Kareem Hunt"
+                },
+                {
+                  "id": 5233723911,
+                  "odds": 37,
+                  "odds_display": "+3600",
+                  "label": "Joe Mixon",
+                  "abrev": "Joe Mixon"
+                },
+                {
+                  "id": 5233723907,
+                  "odds": 45,
+                  "odds_display": "+4400",
+                  "label": "Isiah Pacheco",
+                  "abrev": "Isiah Pacheco"
+                },
+                {
+                  "id": 5233723909,
+                  "odds": 60,
+                  "odds_display": "+5900",
+                  "label": "Travis Kelce",
+                  "abrev": "Travis Kelce"
+                },
+                {
+                  "id": 5233723905,
+                  "odds": 80,
+                  "odds_display": "+7900",
+                  "label": "Xavier Worthy",
+                  "abrev": "Xavier Worthy"
+                },
+                {
+                  "id": 5233723910,
+                  "odds": 80,
+                  "odds_display": "+7900",
+                  "label": "Nico Collins",
+                  "abrev": "Nico Collins"
+                },
+                {
+                  "id": 5233723908,
+                  "odds": 90,
+                  "odds_display": "+8900",
+                  "label": "Deandre Hopkins",
+                  "abrev": "Deandre Hopkins"
+                },
+                {
+                  "id": 5233723913,
+                  "odds": 125,
+                  "odds_display": "+12400",
+                  "label": "Marquise Brown",
+                  "abrev": "Marquise Brown"
+                },
+                {
+                  "id": 5233723904,
+                  "odds": 150,
+                  "odds_display": "+14900",
+                  "label": "Dalton Schultz",
+                  "abrev": "Dalton Schultz"
+                },
+                {
+                  "id": 5233723912,
+                  "odds": 150,
+                  "odds_display": "+14900",
+                  "label": "Noah Gray",
+                  "abrev": "Noah Gray"
+                },
+                {
+                  "id": 5233723914,
+                  "odds": 300,
+                  "odds_display": "+29900",
+                  "label": "John Metchie III",
+                  "abrev": "John Metchie III"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 1250,
+          "selection_order_type": "player_props",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "group": "Player Props - Kicking points Over/Under",
+          "filters": {
+            "720": 60,
+            "1000": 1250
+          },
+          "bets": [
+            {
+              "label": "Harrison Butker - Over/Under 8.5 kicking points",
+              "selections": [
+                {
+                  "id": 5233397852,
+                  "odds": 1.88,
+                  "odds_display": "-114",
+                  "label": "Harrison Butker - Over 8.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233397851,
+                  "odds": 1.65,
+                  "odds_display": "-154",
+                  "label": "Harrison Butker - Under 8.5",
+                  "abrev": "Under"
+                }
+              ]
+            },
+            {
+              "label": "Ka imi Fairbairn - Over/Under 6.5 kicking points",
+              "selections": [
+                {
+                  "id": 5233320927,
+                  "odds": 1.7,
+                  "odds_display": "-143",
+                  "label": "Ka imi Fairbairn - Over 6.5",
+                  "abrev": "Over"
+                },
+                {
+                  "id": 5233320926,
+                  "odds": 1.83,
+                  "odds_display": "-120",
+                  "label": "Ka imi Fairbairn - Under 6.5",
+                  "abrev": "Under"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 10000,
+          "selection_order_type": "odd_even",
+          "is_cashoutable": false,
+          "nb_selection_by_line": 2,
+          "filters": {
+            "1000": 10000,
+            "3911": 10000
+          },
+          "bets": [
+            {
+              "label": "Total points - Odd/Even (inc overtime)",
+              "selections": [
+                {
+                  "id": 5232400666,
+                  "odds": 1.71,
+                  "odds_display": "-141",
+                  "label": "Odd",
+                  "abrev": "Odd"
+                },
+                {
+                  "id": 5232400667,
+                  "odds": 1.97,
+                  "odds_display": "-103",
+                  "label": "Even",
+                  "abrev": "Even"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bet_builder_id": 422573,
+      "id": 8853953,
+      "label": "Texans / Chiefs",
+      "sport": {
+        "id": 7,
+        "label": "Football",
+        "icon": "foot-us"
+      },
+      "category": {
+        "id": 56,
+        "label": "United States"
+      },
+      "competition": {
+        "id": 341,
+        "label": "NFL",
+        "display_mode": "at"
+      },
+      "url": "/en_us/evenement/8853953-texans-chiefs",
+      "start": "2025-01-18T22:30:00.000+01:00",
+      "creation": "2025-01-09T19:22:21.000+01:00",
+      "betbuilder": {
+        "name": "Same Game Parlay",
+        "description": "Build your SGP now!",
+        "icon": "/img/market/betbuilder/SGPIcon-6ff70f0ffad488b68d856f89b1cff7a13c68d951-c66e19b146283a22dbdf32f330b37f30db65a378.png",
+        "icon_url": "https://sportsbook.crabsports.com/img/market/betbuilder/SGPIcon-6ff70f0ffad488b68d856f89b1cff7a13c68d951-c66e19b146283a22dbdf32f330b37f30db65a378.png",
+        "button_description": "Build now!",
+        "url": "https://public-prod-gen2.sportcastlive.com?key=0469dbaf-4766-4e05-810c-32a08d86daea&fixtureId=422573&brand=crabsport&odds=AmericanPrice&culture=en-US&region=maryland&pos=rev",
+        "id": 422573
+      }
+    },
+    "texts": {
+      "filter_all": "filter_all",
+      "label_live": "event_list_label_live",
+      "label_today": "event_list_label_today",
+      "today_label": "event_list_label_today",
+      "label_today_short": "event_list_label_today_short",
+      "filter_goal_scorer": "filter_goal_scorer",
+      "label_button_show_less": "bet_list_label_show_less",
+      "label_button_show_more": "bet_list_label_show_more"
+    }
+  }
